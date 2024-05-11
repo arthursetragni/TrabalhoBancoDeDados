@@ -1,8 +1,11 @@
 ## Trabalho de Banco de Dados
 
 Na pasta `programasGeradores` estão programas em C usados para gerar os arquivos CSV.
+
 Na pasta `tabelasCSV` estão os arquivos CSV prontos para serem importados no MySqlWorkbench.
+
 O arquivo `scriptCriacaoDasTabelas.sql` contém os scripts para a geração das tabelas SQL.
+
 E o arquivo `scriptDeConsultas.sql` contém todos os scripts SQL de consultas pedidos pelo professor.
 
 ### Criação das Tabelas SQL
