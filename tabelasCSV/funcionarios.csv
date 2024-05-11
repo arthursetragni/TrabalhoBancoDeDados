@@ -1,0 +1,2022 @@
+rg,nome,idade,cidade,salario
+10702325,Jesusa,30,Santa Luzia,1698.00
+10702346,Elzie,55,Santa Luzia,1523.00
+10702367,Elon,54,Belo Horizonte,1891.00
+10702388,Luis,41,Belo Horizonte,1793.00
+10702409,Hardie,29,Santa Luzia,2340.00
+10702430,Letcher,53,Contagem,2205.00
+10702451,Evalyn,28,Contagem,1672.00
+10702472,Delmar,59,Ribeirão das Neves,2410.00
+10702493,Marcelle,52,Ribeirão das Neves,1516.00
+10702514,Tommie,56,Contagem,1736.00
+10702535,Ezra,59,Ribeirão das Neves,1526.00
+10702556,Felton,33,Ribeirão das Neves,2004.00
+10702577,Jefferson,20,Santa Luzia,1606.00
+10702598,Casimira,54,Betim,1395.00
+10702619,Melba,19,Betim,1950.00
+10702640,Bertha,25,Betim,2078.00
+10702661,Enos,38,Betim,1450.00
+10702682,Larkin,23,Contagem,2096.00
+10702703,Bascom,27,Belo Horizonte,2076.00
+10702724,Warren,40,Contagem,2289.00
+10702745,Amber,27,Santa Luzia,2393.00
+10702766,Clotilda,45,Betim,1728.00
+10702787,Frederic,35,Betim,1614.00
+10702808,Annie,22,Belo Horizonte,2291.00
+10702829,Ples,39,Contagem,2069.00
+10702850,Jeanie,26,Santa Luzia,1872.00
+10702871,Olinda,39,Santa Luzia,2097.00
+10702892,Ilene,53,Contagem,2404.00
+10702913,Maye,45,Ribeirão das Neves,2070.00
+10702934,Jesus,56,Ribeirão das Neves,1442.00
+10702955,Alla,44,Betim,2324.00
+10702976,Kyle,30,Ribeirão das Neves,1999.00
+10702997,Harley,34,Ribeirão das Neves,1347.00
+10703018,Aldona,59,Santa Luzia,1406.00
+10703039,Luciano,30,Santa Luzia,1403.00
+10703060,Thora,50,Betim,1872.00
+10703081,Inis,57,Betim,1611.00
+10703102,Egbert,37,Betim,2083.00
+10703123,Justina,22,Santa Luzia,1909.00
+10703144,Luvina,28,Santa Luzia,2255.00
+10703165,Jones,18,Betim,2115.00
+10703186,Sumner,36,Ribeirão das Neves,1683.00
+10703207,Enoch,52,Belo Horizonte,1810.00
+10703228,Werner,57,Santa Luzia,1736.00
+10703249,Michael,26,Belo Horizonte,1706.00
+10703270,Rosamond,29,Santa Luzia,1328.00
+10703291,Marvin,50,Betim,1928.00
+10703312,Reba,32,Santa Luzia,2416.00
+10703333,Dan,27,Betim,1552.00
+10703354,Susanna,48,Contagem,1652.00
+10703375,Dean,41,Betim,1938.00
+10703396,Rosabelle,24,Belo Horizonte,2198.00
+10703417,Eda,51,Santa Luzia,1314.00
+10703438,Lynn,53,Contagem,2153.00
+10703459,Laurie,59,Betim,1790.00
+10703480,Joyce,51,Contagem,1537.00
+10703501,Jane,48,Santa Luzia,1405.00
+10703522,Karen,37,Belo Horizonte,1414.00
+10703543,Zela,25,Ribeirão das Neves,1413.00
+10703564,Yvette,22,Ribeirão das Neves,2447.00
+10703585,Odessie,52,Contagem,2153.00
+10703606,Winifred,21,Contagem,1412.00
+10703627,Jackie,27,Belo Horizonte,2300.00
+10703648,Iva,47,Santa Luzia,2345.00
+10703669,Ivie,40,Belo Horizonte,2053.00
+10703690,Abe,45,Ribeirão das Neves,1546.00
+10703711,Noble,50,Betim,2203.00
+10703732,Eddy,23,Contagem,1715.00
+10703753,Estel,21,Contagem,1578.00
+10703774,Ozella,49,Ribeirão das Neves,2119.00
+10703795,Exie,36,Contagem,2426.00
+10703816,Alcie,24,Betim,1699.00
+10703837,Thera,38,Santa Luzia,2111.00
+10703858,Benjiman,58,Belo Horizonte,1370.00
+10703879,Eino,54,Betim,2478.00
+10703900,Constance,34,Santa Luzia,1527.00
+10703921,Walker,52,Contagem,2100.00
+10703942,Sedonia,25,Contagem,1915.00
+10703963,Jasper,22,Betim,1876.00
+10703984,Elsa,21,Ribeirão das Neves,2149.00
+10704005,Santos,31,Betim,1980.00
+10704026,Garland,58,Santa Luzia,1978.00
+10704047,Elsie,26,Belo Horizonte,1639.00
+10704068,Guadalupe,53,Belo Horizonte,1664.00
+10704089,Lucile,18,Betim,2399.00
+10704110,Brooksie,26,Belo Horizonte,1748.00
+10704131,Caldonia,51,Ribeirão das Neves,2291.00
+10704152,Robert,32,Contagem,2452.00
+10704173,Creola,54,Santa Luzia,1694.00
+10704194,Delpha,31,Betim,1900.00
+10704215,Grace,37,Betim,1369.00
+10704236,Freeda,53,Ribeirão das Neves,1401.00
+10704257,Santiago,34,Santa Luzia,1573.00
+10704278,Meyer,39,Ribeirão das Neves,2485.00
+10704299,Ingeborg,50,Santa Luzia,1685.00
+10704320,Vida,45,Contagem,1722.00
+10704341,Albin,37,Betim,1680.00
+10704362,Natalia,37,Betim,1806.00
+10704383,Margaretha,19,Santa Luzia,1635.00
+10704404,Levy,23,Betim,1398.00
+10704425,Lulia,55,Ribeirão das Neves,2043.00
+10704446,Lauretta,55,Ribeirão das Neves,1363.00
+10704467,Edythe,22,Santa Luzia,2498.00
+10704488,Maxie,34,Contagem,2045.00
+10704509,Dina,53,Contagem,1654.00
+10704530,Elmer,25,Contagem,1649.00
+10704551,Grover,59,Betim,2076.00
+10704572,Malcolm,23,Belo Horizonte,2173.00
+10704593,Gerry,58,Santa Luzia,1782.00
+10704614,Melvina,32,Betim,1523.00
+10704635,Uriah,55,Ribeirão das Neves,1841.00
+10704656,Minerva,32,Belo Horizonte,1852.00
+10704677,Estel,44,Belo Horizonte,1878.00
+10704698,Emelie,32,Betim,2060.00
+10704719,Vonnie,50,Belo Horizonte,2432.00
+10704740,Spurgeon,36,Contagem,2269.00
+10704761,Jencie,29,Ribeirão das Neves,1574.00
+10704782,Alex,30,Betim,1319.00
+10704803,Dawson,44,Ribeirão das Neves,1457.00
+10704824,Maudie,30,Betim,2418.00
+10704845,Isadore,54,Contagem,1954.00
+10704866,Leslie,23,Betim,2168.00
+10704887,Lillian,38,Contagem,2020.00
+10704908,Clara,38,Ribeirão das Neves,2198.00
+10704929,Johney,52,Betim,2498.00
+10704950,Karl,59,Belo Horizonte,1982.00
+10704971,Nevada,29,Contagem,2498.00
+10704992,Edgar,51,Belo Horizonte,1925.00
+10705013,Linnie,27,Santa Luzia,1696.00
+10705034,Frederick,49,Contagem,1553.00
+10705055,Dee,59,Ribeirão das Neves,2121.00
+10705076,Goldie,39,Betim,1400.00
+10705097,Georgena,47,Ribeirão das Neves,2391.00
+10705118,Rudolf,45,Santa Luzia,2099.00
+10705139,Ena,18,Betim,1530.00
+10705160,Sanford,36,Santa Luzia,2042.00
+10705181,Harland,22,Contagem,2137.00
+10705202,Maida,33,Contagem,1585.00
+10705223,Izora,59,Santa Luzia,2178.00
+10705244,Trula,29,Contagem,1642.00
+10705265,Manilla,26,Santa Luzia,1824.00
+10705286,Loda,47,Betim,1402.00
+10705307,Ebbie,42,Betim,1862.00
+10705328,Norbert,20,Ribeirão das Neves,1596.00
+10705349,Otha,56,Belo Horizonte,1758.00
+10705370,Worth,41,Ribeirão das Neves,2061.00
+10705391,Alicia,53,Belo Horizonte,2192.00
+10705412,Zack,57,Belo Horizonte,2370.00
+10705433,Powell,56,Ribeirão das Neves,1905.00
+10705454,Carroll,33,Contagem,2038.00
+10705475,Audree,44,Belo Horizonte,1477.00
+10705496,Garnet,37,Belo Horizonte,1991.00
+10705517,Judy,56,Contagem,2211.00
+10705538,Dominic,37,Ribeirão das Neves,2498.00
+10705559,Elodie,23,Santa Luzia,1598.00
+10705580,Marian,44,Contagem,1839.00
+10705601,Ferol,55,Ribeirão das Neves,2213.00
+10705622,Johanna,33,Betim,1597.00
+10705643,Roy,20,Ribeirão das Neves,2331.00
+10705664,Chloe,35,Betim,2151.00
+10705685,Mildred,57,Santa Luzia,1965.00
+10705706,Iris,33,Ribeirão das Neves,1689.00
+10705727,Clell,35,Santa Luzia,1721.00
+10705748,Mable,31,Belo Horizonte,2416.00
+10705769,Lutie,31,Contagem,2348.00
+10705790,Ben,58,Contagem,1998.00
+10705811,Welford,39,Contagem,1332.00
+10705832,Sofia,36,Betim,2439.00
+10705853,Rhoda,47,Betim,1437.00
+10705874,Virgil,30,Betim,2306.00
+10705895,Maie,31,Ribeirão das Neves,1306.00
+10705916,Roland,29,Contagem,1710.00
+10705937,Vernon,47,Ribeirão das Neves,2400.00
+10705958,Luz,47,Contagem,2175.00
+10705979,Erskine,48,Belo Horizonte,1337.00
+10706000,Stephanie,34,Betim,1586.00
+10706021,Evaline,55,Belo Horizonte,1967.00
+10706042,Shade,36,Ribeirão das Neves,2310.00
+10706063,Violet,30,Ribeirão das Neves,2458.00
+10706084,Arlene,41,Belo Horizonte,2393.00
+10706105,Gayle,28,Betim,1603.00
+10706126,Elma,48,Belo Horizonte,2431.00
+10706147,Maidie,36,Betim,1579.00
+10706168,Rhoda,23,Betim,2166.00
+10706189,Elda,21,Belo Horizonte,1553.00
+10706210,Isham,33,Betim,1991.00
+10706231,Cyril,34,Santa Luzia,2236.00
+10706252,Ammie,40,Contagem,2359.00
+10706273,Ossie,29,Contagem,1851.00
+10706294,Marianna,31,Ribeirão das Neves,2043.00
+10706315,Laura,41,Ribeirão das Neves,1587.00
+10706336,Elodia,55,Betim,2070.00
+10706357,Maud,26,Santa Luzia,2499.00
+10706378,Orval,42,Contagem,1344.00
+10706399,Chlora,19,Ribeirão das Neves,2068.00
+10706420,Hobert,37,Betim,2314.00
+10706441,Nicholas,56,Santa Luzia,2188.00
+10706462,Coral,32,Betim,1471.00
+10706483,Natalie,20,Ribeirão das Neves,2072.00
+10706504,Elmore,43,Contagem,2063.00
+10706525,Vola,47,Santa Luzia,2410.00
+10706546,Wheeler,53,Contagem,2167.00
+10706567,Lyda,46,Betim,1397.00
+10706588,Zack,59,Santa Luzia,1859.00
+10706609,Sallye,32,Ribeirão das Neves,1959.00
+10706630,Bartholomew,42,Santa Luzia,2461.00
+10706651,Lavinia,25,Contagem,1613.00
+10706672,Major,56,Betim,1385.00
+10706693,Edd,43,Ribeirão das Neves,1674.00
+10706714,Isadora,20,Contagem,1995.00
+10706735,Alverta,58,Santa Luzia,1513.00
+10706756,Valeria,25,Santa Luzia,2231.00
+10706777,Peter,21,Contagem,2142.00
+10706798,Madaline,46,Contagem,1468.00
+10706819,Haskell,35,Contagem,1660.00
+10706840,Barney,56,Belo Horizonte,2170.00
+10706861,Bethel,45,Betim,2265.00
+10706882,Naida,43,Contagem,2424.00
+10706903,Jules,48,Betim,1374.00
+10706924,Dixie,50,Contagem,1775.00
+10706945,Clemence,22,Betim,2036.00
+10706966,Manila,57,Betim,1471.00
+10706987,Neola,23,Santa Luzia,1320.00
+10707008,Ellison,21,Santa Luzia,1487.00
+10707029,Katharina,24,Belo Horizonte,1422.00
+10707050,Mettie,36,Betim,2057.00
+10707071,Allene,54,Santa Luzia,1691.00
+10707092,Pierce,21,Betim,1769.00
+10707113,Boyce,49,Belo Horizonte,1428.00
+10707134,Joeseph,32,Belo Horizonte,2245.00
+10707155,Frank,43,Ribeirão das Neves,1923.00
+10707176,Ilah,22,Belo Horizonte,2411.00
+10707197,Gladys,27,Santa Luzia,1453.00
+10707218,Dixie,32,Betim,1680.00
+10707239,Adrienne,20,Betim,2407.00
+10707260,Diego,19,Contagem,1962.00
+10707281,Lou,18,Contagem,2073.00
+10707302,Altie,46,Ribeirão das Neves,2237.00
+10707323,Jas,56,Santa Luzia,2052.00
+10707344,Concetta,20,Belo Horizonte,1709.00
+10707365,Cecile,48,Contagem,1518.00
+10707386,Corene,34,Betim,1657.00
+10707407,Levi,26,Betim,2377.00
+10707428,Andres,24,Belo Horizonte,1545.00
+10707449,Pocahontas,57,Santa Luzia,2163.00
+10707470,Ples,41,Belo Horizonte,1462.00
+10707491,Estell,34,Contagem,1843.00
+10707512,Beauty,46,Belo Horizonte,1609.00
+10707533,Quincy,43,Contagem,1700.00
+10707554,Earl,18,Ribeirão das Neves,1448.00
+10707575,Birdie,35,Contagem,1756.00
+10707596,Estelle,43,Santa Luzia,2200.00
+10707617,Cleo,38,Belo Horizonte,1864.00
+10707638,Augustine,30,Betim,1330.00
+10707659,Corrinne,32,Ribeirão das Neves,2135.00
+10707680,Armand,24,Santa Luzia,1405.00
+10707701,Ellie,25,Santa Luzia,2136.00
+10707722,Elia,21,Contagem,1979.00
+10707743,Adah,50,Santa Luzia,2359.00
+10707764,Ruth,57,Belo Horizonte,1785.00
+10707785,Olympia,46,Contagem,1532.00
+10707806,Irwin,41,Santa Luzia,1626.00
+10707827,Ludmilla,32,Contagem,1781.00
+10707848,Cleo,32,Belo Horizonte,1846.00
+10707869,Marcellus,44,Ribeirão das Neves,1925.00
+10707890,Eudora,48,Betim,1853.00
+10707911,Evertt,46,Betim,2404.00
+10707932,Vella,40,Contagem,1446.00
+10707953,Cherry,33,Belo Horizonte,1565.00
+10707974,Rose,52,Belo Horizonte,2210.00
+10707995,Araminta,26,Betim,1387.00
+10708016,Burnie,40,Contagem,2419.00
+10708037,Theron,36,Santa Luzia,2112.00
+10708058,Josefa,42,Ribeirão das Neves,2044.00
+10708079,Signe,49,Betim,1406.00
+10708100,Annabelle,55,Santa Luzia,2461.00
+10708121,Landon,48,Betim,1698.00
+10708142,Betsey,55,Belo Horizonte,2266.00
+10708163,Letitia,30,Betim,2210.00
+10708184,Bernadine,48,Belo Horizonte,1938.00
+10708205,Loyal,22,Santa Luzia,2034.00
+10708226,Lelah,34,Ribeirão das Neves,1550.00
+10708247,Ida,25,Belo Horizonte,2256.00
+10708268,Marcelina,18,Belo Horizonte,1309.00
+10708289,Arta,56,Belo Horizonte,2462.00
+10708310,Lucile,26,Santa Luzia,2078.00
+10708331,Sim,50,Ribeirão das Neves,1314.00
+10708352,Pearlie,57,Santa Luzia,2085.00
+10708373,Benjamen,50,Contagem,1583.00
+10708394,Priscilla,47,Belo Horizonte,2354.00
+10708415,Watt,52,Belo Horizonte,2327.00
+10708436,Twila,22,Ribeirão das Neves,1921.00
+10708457,Adolphus,41,Belo Horizonte,1512.00
+10708478,Jessica,26,Belo Horizonte,1862.00
+10708499,Freda,19,Contagem,1776.00
+10708520,Page,39,Santa Luzia,1493.00
+10708541,Gene,51,Ribeirão das Neves,1957.00
+10708562,Tula,51,Ribeirão das Neves,1679.00
+10708583,Leitha,22,Belo Horizonte,1811.00
+10708604,Dessie,35,Contagem,1400.00
+10708625,Claribel,29,Ribeirão das Neves,1334.00
+10708646,Garvin,42,Betim,1765.00
+10708667,Corda,20,Contagem,2259.00
+10708688,Claire,46,Betim,2177.00
+10708709,Vada,50,Santa Luzia,2310.00
+10708730,Blanche,46,Betim,1750.00
+10708751,Mont,39,Santa Luzia,1897.00
+10708772,Orson,23,Contagem,2212.00
+10708793,Minor,57,Ribeirão das Neves,2180.00
+10708814,Easter,59,Betim,1344.00
+10708835,Oliva,54,Contagem,1561.00
+10708856,Rex,48,Betim,1454.00
+10708877,Ward,31,Betim,2003.00
+10708898,Bonnie,22,Santa Luzia,1596.00
+10708919,India,37,Betim,1704.00
+10708940,Etter,40,Contagem,2398.00
+10708961,Theo,36,Betim,2028.00
+10708982,Toney,52,Ribeirão das Neves,2198.00
+10709003,Belle,25,Santa Luzia,1313.00
+10709024,Bedford,26,Betim,1664.00
+10709045,Wirt,55,Belo Horizonte,2431.00
+10709066,Horatio,32,Ribeirão das Neves,1982.00
+10709087,Judy,41,Ribeirão das Neves,2063.00
+10709108,Clemmie,19,Ribeirão das Neves,1322.00
+10709129,Beverly,51,Betim,1746.00
+10709150,Jimmie,59,Santa Luzia,2354.00
+10709171,Oma,27,Santa Luzia,1517.00
+10709192,Erie,30,Belo Horizonte,2083.00
+10709213,Ethelwyn,42,Ribeirão das Neves,2369.00
+10709234,Violet,26,Betim,2061.00
+10709255,Lillis,35,Contagem,1985.00
+10709276,Gaynell,18,Contagem,2317.00
+10709297,Ivory,31,Belo Horizonte,1567.00
+10709318,Roxie,57,Santa Luzia,1336.00
+10709339,Denise,50,Belo Horizonte,2331.00
+10709360,Sevilla,46,Belo Horizonte,2106.00
+10709381,Burl,31,Santa Luzia,1409.00
+10709402,Paulina,49,Contagem,1448.00
+10709423,Zelma,43,Belo Horizonte,2388.00
+10709444,Ollie,57,Ribeirão das Neves,1384.00
+10709465,Opal,57,Belo Horizonte,1468.00
+10709486,Alvera,23,Betim,2274.00
+10709507,Nora,23,Betim,1630.00
+10709528,Robert,39,Betim,1665.00
+10709549,Bertha,26,Betim,1700.00
+10709570,Theresia,51,Belo Horizonte,1721.00
+10709591,Claude,25,Santa Luzia,1499.00
+10709612,Jonathan,50,Betim,1840.00
+10709633,Rosevelt,55,Betim,1408.00
+10709654,Robert,39,Santa Luzia,1948.00
+10709675,Mahlon,46,Betim,2186.00
+10709696,Grace,50,Santa Luzia,1967.00
+10709717,Dinah,37,Santa Luzia,1582.00
+10709738,Hoke,36,Contagem,2389.00
+10709759,Aimee,32,Ribeirão das Neves,1500.00
+10709780,Eloise,49,Betim,2154.00
+10709801,Parker,42,Ribeirão das Neves,2498.00
+10709822,Mimi,44,Ribeirão das Neves,1623.00
+10709843,Norman,26,Ribeirão das Neves,1953.00
+10709864,Brunette,32,Ribeirão das Neves,1516.00
+10709885,Evelena,32,Santa Luzia,2402.00
+10709906,Vanda,43,Contagem,1379.00
+10709927,Leone,59,Santa Luzia,1650.00
+10709948,Enos,54,Ribeirão das Neves,1978.00
+10709969,Zina,56,Belo Horizonte,1519.00
+10709990,Becky,34,Betim,2428.00
+10710011,Clair,20,Contagem,1738.00
+10710032,Otto,33,Santa Luzia,2343.00
+10710053,Malissia,24,Contagem,1470.00
+10710074,Albin,41,Santa Luzia,1779.00
+10710095,Merlin,48,Santa Luzia,1920.00
+10710116,Blake,24,Contagem,1905.00
+10710137,Urban,35,Contagem,1495.00
+10710158,Eliza,34,Ribeirão das Neves,1728.00
+10710179,Othelia,29,Contagem,2476.00
+10710200,Hardie,26,Santa Luzia,1702.00
+10710221,Lena,56,Contagem,1376.00
+10710242,Artie,37,Belo Horizonte,2303.00
+10710263,Elfie,18,Santa Luzia,1556.00
+10710284,Asa,43,Betim,1902.00
+10710305,Gene,56,Betim,2141.00
+10710326,Vessie,48,Ribeirão das Neves,2087.00
+10710347,Lonnie,54,Contagem,1871.00
+10710368,Toy,29,Betim,1817.00
+10710389,Theodore,44,Contagem,2263.00
+10710410,Elmo,49,Belo Horizonte,1943.00
+10710431,Corene,43,Contagem,1774.00
+10710452,Blossom,34,Santa Luzia,2186.00
+10710473,Stacy,34,Belo Horizonte,2416.00
+10710494,Vinie,57,Santa Luzia,1631.00
+10710515,Albin,39,Betim,1444.00
+10710536,Verta,39,Belo Horizonte,2042.00
+10710557,Evangeline,31,Ribeirão das Neves,2380.00
+10710578,Tessie,56,Belo Horizonte,2394.00
+10710599,Ellsworth,21,Belo Horizonte,2149.00
+10710620,Emer,36,Contagem,2208.00
+10710641,Louella,49,Contagem,1693.00
+10710662,Fannie,29,Contagem,1411.00
+10710683,Elliot,43,Contagem,2152.00
+10710704,Governor,30,Belo Horizonte,1544.00
+10710725,Oreta,49,Belo Horizonte,2127.00
+10710746,Coralie,41,Belo Horizonte,1409.00
+10710767,Goldie,55,Ribeirão das Neves,1693.00
+10710788,Marge,42,Betim,2293.00
+10710809,Myrtle,56,Contagem,2432.00
+10710830,Ilda,56,Santa Luzia,1452.00
+10710851,Casimira,41,Betim,2290.00
+10710872,Borghild,43,Contagem,1370.00
+10710893,Weldon,18,Ribeirão das Neves,2449.00
+10710914,Thelma,29,Contagem,1716.00
+10710935,Isreal,52,Belo Horizonte,2112.00
+10710956,Mack,19,Belo Horizonte,2082.00
+10710977,Jess,36,Contagem,2362.00
+10710998,Wellington,55,Santa Luzia,1688.00
+10711019,Arcola,27,Betim,2223.00
+10711040,Cressie,18,Ribeirão das Neves,1832.00
+10711061,Harold,34,Betim,1555.00
+10711082,Fannye,24,Betim,1889.00
+10711103,Corrie,57,Santa Luzia,1514.00
+10711124,Coy,44,Belo Horizonte,1873.00
+10711145,Emelia,35,Santa Luzia,2381.00
+10711166,Carmela,47,Ribeirão das Neves,1842.00
+10711187,Anner,33,Ribeirão das Neves,1770.00
+10711208,Bobbie,28,Belo Horizonte,1410.00
+10711229,Justus,57,Santa Luzia,2236.00
+10711250,Bobbye,41,Betim,1458.00
+10711271,Casey,22,Santa Luzia,1357.00
+10711292,Jay,20,Santa Luzia,1675.00
+10711313,Ailene,54,Santa Luzia,2327.00
+10711334,Chauncey,24,Ribeirão das Neves,2068.00
+10711355,Gustava,20,Ribeirão das Neves,1675.00
+10711376,Victor,57,Ribeirão das Neves,1723.00
+10711397,Marget,22,Belo Horizonte,2427.00
+10711418,Sweetie,19,Contagem,2486.00
+10711439,Florene,57,Contagem,1519.00
+10711460,Maude,35,Belo Horizonte,1685.00
+10711481,Adolphus,43,Santa Luzia,2003.00
+10711502,Gretchen,32,Ribeirão das Neves,1957.00
+10711523,Beverly,33,Betim,1758.00
+10711544,Emmaline,28,Contagem,2093.00
+10711565,Alexandria,43,Betim,1904.00
+10711586,Garrett,47,Ribeirão das Neves,2479.00
+10711607,Debbie,27,Ribeirão das Neves,1405.00
+10711628,Pinkney,58,Betim,1362.00
+10711649,Harrold,57,Santa Luzia,2196.00
+10711670,Eloisa,55,Betim,2351.00
+10711691,Kyle,32,Betim,2118.00
+10711712,Anice,49,Ribeirão das Neves,1621.00
+10711733,Huldah,38,Ribeirão das Neves,1636.00
+10711754,Melvin,40,Belo Horizonte,1515.00
+10711775,Oda,59,Contagem,2108.00
+10711796,Elias,24,Contagem,2127.00
+10711817,Odelia,51,Belo Horizonte,1881.00
+10711838,Burr,56,Santa Luzia,1906.00
+10711859,Elfie,20,Belo Horizonte,1848.00
+10711880,Coletta,53,Betim,2043.00
+10711901,Clarrissa,21,Belo Horizonte,2020.00
+10711922,Trina,37,Contagem,2480.00
+10711943,Amalie,35,Belo Horizonte,2487.00
+10711964,May,44,Belo Horizonte,1465.00
+10711985,Augustine,30,Contagem,1980.00
+10712006,Lillis,44,Belo Horizonte,1587.00
+10712027,Nelson,21,Santa Luzia,1396.00
+10712048,Cal,41,Ribeirão das Neves,1796.00
+10712069,Hattie,35,Belo Horizonte,1433.00
+10712090,Johnnie,49,Ribeirão das Neves,2095.00
+10712111,Luna,56,Contagem,1728.00
+10712132,Manford,28,Ribeirão das Neves,2296.00
+10712153,Lavena,20,Santa Luzia,1490.00
+10712174,Carrol,44,Ribeirão das Neves,2419.00
+10712195,Almira,23,Belo Horizonte,2101.00
+10712216,Carmel,26,Betim,1574.00
+10712237,Edmund,33,Betim,2100.00
+10712258,Lafayette,51,Ribeirão das Neves,2021.00
+10712279,Cleora,22,Santa Luzia,1622.00
+10712300,Dallie,20,Belo Horizonte,2484.00
+10712321,Cruz,52,Belo Horizonte,1953.00
+10712342,Neda,41,Contagem,1975.00
+10712363,Victoria,44,Contagem,2101.00
+10712384,Joesph,35,Belo Horizonte,1334.00
+10712405,Wilfred,57,Belo Horizonte,2362.00
+10712426,Orlando,28,Contagem,1835.00
+10712447,Earle,52,Betim,1958.00
+10712468,Dale,33,Betim,1708.00
+10712489,Ola,58,Santa Luzia,1906.00
+10712510,Dolly,38,Santa Luzia,1842.00
+10712531,Randall,33,Belo Horizonte,2316.00
+10712552,Sammie,56,Santa Luzia,2363.00
+10712573,Cody,53,Ribeirão das Neves,1821.00
+10712594,Winnie,26,Belo Horizonte,2299.00
+10712615,Green,21,Betim,2200.00
+10712636,Sedonia,37,Belo Horizonte,2442.00
+10712657,Jonas,28,Ribeirão das Neves,1452.00
+10712678,Vollie,50,Contagem,2474.00
+10712699,Mintie,31,Belo Horizonte,2431.00
+10712720,Rufus,52,Ribeirão das Neves,2212.00
+10712741,Hilding,42,Contagem,1417.00
+10712762,Sabina,22,Santa Luzia,1382.00
+10712783,Bertie,20,Belo Horizonte,2443.00
+10712804,Deborah,26,Belo Horizonte,1456.00
+10712825,Benjamine,26,Belo Horizonte,1311.00
+10712846,Luvenia,47,Santa Luzia,1994.00
+10712867,Montie,41,Santa Luzia,1353.00
+10712888,Lona,26,Santa Luzia,1319.00
+10712909,Ransom,36,Ribeirão das Neves,2112.00
+10712930,Leona,46,Belo Horizonte,1607.00
+10712951,Vince,46,Belo Horizonte,1937.00
+10712972,Magdalena,29,Belo Horizonte,1908.00
+10712993,Helmer,52,Contagem,1573.00
+10713014,Taylor,22,Betim,2266.00
+10713035,Royal,29,Santa Luzia,2145.00
+10713056,Arnold,43,Betim,2328.00
+10713077,Annis,38,Belo Horizonte,1923.00
+10713098,Astor,51,Betim,2291.00
+10713119,Eunie,28,Betim,2291.00
+10713140,Doretta,20,Belo Horizonte,1396.00
+10713161,Arthur,43,Belo Horizonte,2410.00
+10713182,Bennie,45,Belo Horizonte,1615.00
+10713203,Macie,27,Santa Luzia,1719.00
+10713224,Paul,59,Santa Luzia,2114.00
+10713245,Forrest,22,Contagem,2397.00
+10713266,Katharine,33,Betim,2176.00
+10713287,Mallie,29,Santa Luzia,1548.00
+10713308,Hosea,54,Contagem,1640.00
+10713329,Alger,28,Belo Horizonte,2118.00
+10713350,Shizue,18,Belo Horizonte,1329.00
+10713371,Marian,34,Ribeirão das Neves,2383.00
+10713392,Hayden,40,Betim,2061.00
+10713413,Abbie,59,Santa Luzia,1549.00
+10713434,Caroline,34,Ribeirão das Neves,2432.00
+10713455,Oliva,28,Ribeirão das Neves,1745.00
+10713476,Lora,56,Santa Luzia,2056.00
+10713497,Baxter,27,Contagem,2377.00
+10713518,Harvy,50,Belo Horizonte,1865.00
+10713539,Elder,49,Betim,1635.00
+10713560,Burley,58,Betim,1380.00
+10713581,Loretta,22,Betim,1488.00
+10713602,Hollis,58,Santa Luzia,1738.00
+10713623,Besse,58,Contagem,2357.00
+10713644,Fannye,48,Betim,1583.00
+10713665,Emmett,27,Contagem,1548.00
+10713686,Perley,41,Betim,1779.00
+10713707,Doshia,46,Belo Horizonte,1420.00
+10713728,Salvador,33,Belo Horizonte,2224.00
+10713749,Frona,32,Contagem,2110.00
+10713770,Josiah,44,Ribeirão das Neves,1918.00
+10713791,Reva,49,Ribeirão das Neves,1540.00
+10713812,Anastacio,31,Belo Horizonte,2421.00
+10713833,Dee,24,Betim,2022.00
+10713854,Paul,56,Belo Horizonte,1887.00
+10713875,Fulton,54,Santa Luzia,2388.00
+10713896,Ananias,37,Betim,1875.00
+10713917,Mariah,24,Ribeirão das Neves,2079.00
+10713938,Eileen,36,Belo Horizonte,1902.00
+10713959,Salome,59,Santa Luzia,1314.00
+10713980,Lucretia,52,Santa Luzia,1719.00
+10714001,Wilma,39,Betim,2315.00
+10714022,Hurley,46,Contagem,1836.00
+10714043,Constantine,52,Betim,1370.00
+10714064,Rosamond,42,Betim,1342.00
+10714085,Maryjane,57,Santa Luzia,2328.00
+10714106,Orrin,34,Ribeirão das Neves,1746.00
+10714127,Epsie,24,Ribeirão das Neves,1332.00
+10714148,Earlie,28,Betim,2233.00
+10714169,Felicitas,39,Belo Horizonte,2060.00
+10714190,Joyce,58,Betim,2243.00
+10714211,Emeline,20,Belo Horizonte,1825.00
+10714232,Mose,52,Betim,2032.00
+10714253,Frank,58,Contagem,2206.00
+10714274,Henriette,24,Santa Luzia,1979.00
+10714295,Ed,52,Santa Luzia,1676.00
+10714316,Courtney,36,Contagem,2317.00
+10714337,Ferdinand,39,Ribeirão das Neves,1504.00
+10714358,Sandy,55,Betim,1813.00
+10714379,Aurore,21,Contagem,1602.00
+10714400,Christina,21,Santa Luzia,1697.00
+10714421,Garnet,34,Ribeirão das Neves,2084.00
+10714442,Ruthie,29,Ribeirão das Neves,2392.00
+10714463,Elery,57,Belo Horizonte,2253.00
+10714484,Thora,19,Ribeirão das Neves,1339.00
+10714505,Ceaser,43,Santa Luzia,2327.00
+10714526,Eva,55,Belo Horizonte,1866.00
+10714547,Ora,28,Santa Luzia,1992.00
+10714568,Albertha,48,Belo Horizonte,1462.00
+10714589,Hugo,19,Belo Horizonte,1998.00
+10714610,Albert,31,Belo Horizonte,1925.00
+10714631,Della,31,Ribeirão das Neves,2400.00
+10714652,Burnett,22,Belo Horizonte,2325.00
+10714673,Tracy,57,Belo Horizonte,2062.00
+10714694,Ed,54,Contagem,1377.00
+10714715,Emery,39,Contagem,1806.00
+10714736,Gail,54,Belo Horizonte,2314.00
+10714757,Lottie,21,Betim,1709.00
+10714778,Bedford,20,Betim,1452.00
+10714799,Art,47,Betim,1512.00
+10714820,Eula,52,Belo Horizonte,1834.00
+10714841,Freida,26,Betim,1599.00
+10714862,Wiley,23,Santa Luzia,2101.00
+10714883,Edith,46,Ribeirão das Neves,2437.00
+10714904,Zena,20,Contagem,2066.00
+10714925,Bulah,42,Belo Horizonte,1993.00
+10714946,Loretta,48,Betim,1303.00
+10714967,Deetta,23,Belo Horizonte,1327.00
+10714988,Bobby,55,Betim,1683.00
+10715009,Corene,22,Santa Luzia,1534.00
+10715030,Roberta,24,Belo Horizonte,2388.00
+10715051,Maple,41,Belo Horizonte,1988.00
+10715072,Winford,30,Ribeirão das Neves,2286.00
+10715093,Jones,57,Betim,2350.00
+10715114,Helena,25,Contagem,1636.00
+10715135,Vera,49,Belo Horizonte,2102.00
+10715156,Sister,45,Santa Luzia,2272.00
+10715177,Isabell,48,Contagem,2319.00
+10715198,Creola,45,Ribeirão das Neves,2248.00
+10715219,Rexford,20,Contagem,1311.00
+10715240,Sewell,39,Ribeirão das Neves,1628.00
+10715261,Trudie,43,Belo Horizonte,2197.00
+10715282,Corene,56,Contagem,2045.00
+10715303,Madaline,25,Santa Luzia,2096.00
+10715324,Zenia,57,Ribeirão das Neves,1992.00
+10715345,Genie,33,Contagem,1379.00
+10715366,Chester,18,Betim,1443.00
+10715387,Flossie,18,Belo Horizonte,2308.00
+10715408,Lurline,31,Contagem,1574.00
+10715429,Bertie,21,Betim,2115.00
+10715450,Macel,18,Santa Luzia,1690.00
+10715471,Pasqualina,53,Ribeirão das Neves,2442.00
+10715492,Kay,40,Ribeirão das Neves,1460.00
+10715513,Elwood,46,Contagem,2358.00
+10715534,Sebastian,53,Contagem,1828.00
+10715555,Lydia,55,Betim,1324.00
+10715576,Danial,36,Betim,1486.00
+10715597,Frederica,25,Betim,1944.00
+10715618,Vina,29,Betim,1392.00
+10715639,Hervey,48,Santa Luzia,1423.00
+10715660,Deloris,32,Belo Horizonte,2220.00
+10715681,Tula,47,Belo Horizonte,1925.00
+10715702,Lucile,52,Santa Luzia,1300.00
+10715723,Alphonse,25,Belo Horizonte,1761.00
+10715744,Boysie,55,Belo Horizonte,1494.00
+10715765,Hugh,38,Contagem,1584.00
+10715786,Sabra,40,Belo Horizonte,1426.00
+10715807,Bernice,29,Betim,2351.00
+10715828,Fanny,36,Belo Horizonte,1306.00
+10715849,Alzina,28,Contagem,2364.00
+10715870,Jewell,35,Betim,1579.00
+10715891,Antoinette,47,Santa Luzia,1581.00
+10715912,Tessie,30,Belo Horizonte,2386.00
+10715933,Lon,50,Betim,1533.00
+10715954,Freda,55,Ribeirão das Neves,1994.00
+10715975,Arlie,45,Contagem,2084.00
+10715996,Ida,30,Betim,2486.00
+10716017,Ewald,35,Contagem,2308.00
+10716038,Archie,53,Betim,2397.00
+10716059,Fern,48,Santa Luzia,1826.00
+10716080,Archie,48,Contagem,2276.00
+10716101,Bernardo,26,Contagem,2270.00
+10716122,Annetta,34,Belo Horizonte,2134.00
+10716143,Gino,20,Belo Horizonte,1977.00
+10716164,Allan,26,Santa Luzia,1873.00
+10716185,Arie,24,Betim,1320.00
+10716206,Hildagard,41,Contagem,1407.00
+10716227,Luciano,22,Contagem,1733.00
+10716248,Winfield,18,Contagem,2138.00
+10716269,Bradley,21,Ribeirão das Neves,1508.00
+10716290,Nonnie,28,Betim,2286.00
+10716311,Iver,34,Ribeirão das Neves,2192.00
+10716332,Carlean,53,Ribeirão das Neves,1980.00
+10716353,Lucian,47,Santa Luzia,1811.00
+10716374,Ophelia,20,Belo Horizonte,1831.00
+10716395,Meyer,49,Belo Horizonte,1987.00
+10716416,Veola,39,Belo Horizonte,1382.00
+10716437,Kathrine,30,Belo Horizonte,1498.00
+10716458,Emmett,40,Santa Luzia,1871.00
+10716479,Wendell,20,Contagem,1374.00
+10716500,Aida,44,Belo Horizonte,1960.00
+10716521,Zadie,55,Belo Horizonte,1709.00
+10716542,Sebastian,57,Ribeirão das Neves,2111.00
+10716563,Eddie,42,Ribeirão das Neves,2365.00
+10716584,Wealthy,30,Ribeirão das Neves,1924.00
+10716605,Wyatt,28,Belo Horizonte,2211.00
+10716626,Hildreth,24,Santa Luzia,2341.00
+10716647,Lucretia,21,Santa Luzia,2009.00
+10716668,Elijah,34,Contagem,1668.00
+10716689,Adolph,40,Contagem,1555.00
+10716710,Harlie,35,Contagem,1996.00
+10716731,Gertrude,27,Belo Horizonte,2184.00
+10716752,Mildred,40,Betim,1428.00
+10716773,Geneva,32,Betim,1927.00
+10716794,Ferdinand,52,Ribeirão das Neves,2375.00
+10716815,Madaline,58,Belo Horizonte,1929.00
+10716836,Caryl,36,Santa Luzia,1399.00
+10716857,Olivette,55,Ribeirão das Neves,1908.00
+10716878,Harriet,52,Belo Horizonte,1829.00
+10716899,Queen,51,Ribeirão das Neves,1892.00
+10716920,Eliza,57,Ribeirão das Neves,2298.00
+10716941,Vanda,37,Belo Horizonte,1571.00
+10716962,Michael,40,Ribeirão das Neves,1970.00
+10716983,Jeanne,53,Santa Luzia,2182.00
+10717004,Margret,56,Belo Horizonte,2324.00
+10717025,Rella,54,Betim,1847.00
+10717046,Frederica,58,Ribeirão das Neves,1892.00
+10717067,Rolla,40,Contagem,2322.00
+10717088,Vester,39,Belo Horizonte,1780.00
+10717109,Henderson,40,Betim,1463.00
+10717130,Cleo,38,Santa Luzia,1634.00
+10717151,Alvira,44,Betim,2290.00
+10717172,Artie,31,Belo Horizonte,2355.00
+10717193,Bonita,25,Betim,1437.00
+10717214,Zack,41,Belo Horizonte,2498.00
+10717235,Abel,40,Betim,2464.00
+10717256,Hurley,50,Ribeirão das Neves,1864.00
+10717277,Helmer,30,Belo Horizonte,2242.00
+10717298,Marianne,22,Betim,1362.00
+10717319,Lavada,46,Betim,2411.00
+10717340,Bernie,24,Contagem,1304.00
+10717361,Jennie,48,Ribeirão das Neves,1575.00
+10717382,Hannah,30,Contagem,1530.00
+10717403,Luna,52,Belo Horizonte,1417.00
+10717424,Elna,56,Contagem,2131.00
+10717445,Olevia,42,Santa Luzia,1999.00
+10717466,Thornton,36,Ribeirão das Neves,2150.00
+10717487,Minta,34,Belo Horizonte,2449.00
+10717508,Winfield,58,Ribeirão das Neves,1843.00
+10717529,Malcolm,55,Santa Luzia,2288.00
+10717550,Clifford,28,Santa Luzia,1303.00
+10717571,Truman,20,Contagem,1864.00
+10717592,Thalia,29,Ribeirão das Neves,1525.00
+10717613,Unknown,24,Betim,1529.00
+10717634,Therese,54,Betim,1577.00
+10717655,Maebelle,31,Betim,1370.00
+10717676,Hermon,47,Belo Horizonte,1807.00
+10717697,Glen,41,Ribeirão das Neves,2299.00
+10717718,Alease,18,Betim,2457.00
+10717739,Janie,26,Santa Luzia,1324.00
+10717760,Selena,42,Betim,1779.00
+10717781,Jerry,19,Contagem,1554.00
+10717802,Bonnie,39,Betim,1751.00
+10717823,Adella,40,Ribeirão das Neves,2342.00
+10717844,Delmar,25,Santa Luzia,1836.00
+10717865,Ione,44,Ribeirão das Neves,1438.00
+10717886,Dominick,57,Santa Luzia,1338.00
+10717907,Liddie,42,Ribeirão das Neves,2029.00
+10717928,Merton,46,Belo Horizonte,1469.00
+10717949,Roe,36,Contagem,2138.00
+10717970,Dolph,19,Ribeirão das Neves,2049.00
+10717991,Donato,31,Belo Horizonte,2073.00
+10718012,Butler,43,Belo Horizonte,2293.00
+10718033,Oran,51,Santa Luzia,1532.00
+10718054,Pierre,57,Betim,2222.00
+10718075,Albion,19,Contagem,2257.00
+10718096,Rilla,20,Ribeirão das Neves,1987.00
+10718117,Westley,38,Betim,1567.00
+10718138,Elnora,38,Ribeirão das Neves,2103.00
+10718159,June,52,Betim,1520.00
+10718180,Sula,24,Contagem,1583.00
+10718201,Luna,23,Ribeirão das Neves,2228.00
+10718222,Donie,49,Santa Luzia,1326.00
+10718243,Michelina,48,Contagem,2483.00
+10718264,Effie,31,Contagem,1391.00
+10718285,Armin,42,Contagem,2175.00
+10718306,Wells,44,Santa Luzia,2385.00
+10718327,Laurine,59,Contagem,1877.00
+10718348,Gary,40,Santa Luzia,1785.00
+10718369,Leander,46,Betim,2380.00
+10718390,Ruthe,22,Betim,2030.00
+10718411,Oda,57,Belo Horizonte,1411.00
+10718432,Nan,28,Belo Horizonte,2333.00
+10718453,Retta,25,Ribeirão das Neves,2106.00
+10718474,Rachel,34,Santa Luzia,2468.00
+10718495,Ardelle,47,Betim,1695.00
+10718516,Georgianna,31,Santa Luzia,2221.00
+10718537,Maryella,24,Betim,2492.00
+10718558,Annis,31,Belo Horizonte,1470.00
+10718579,Bee,58,Ribeirão das Neves,1807.00
+10718600,Alfhild,21,Ribeirão das Neves,1881.00
+10718621,Stacy,38,Betim,1300.00
+10718642,Cassie,36,Contagem,1726.00
+10718663,Marcella,24,Santa Luzia,2295.00
+10718684,Mahalia,26,Betim,2246.00
+10718705,Pearlie,32,Contagem,1965.00
+10718726,Tommye,23,Contagem,2136.00
+10718747,Clara,56,Santa Luzia,1827.00
+10718768,Nelle,36,Betim,1302.00
+10718789,Nealie,21,Contagem,1986.00
+10718810,Vita,32,Betim,2354.00
+10718831,Todd,40,Ribeirão das Neves,2442.00
+10718852,Marshal,52,Betim,2443.00
+10718873,Audie,52,Ribeirão das Neves,1988.00
+10718894,Miller,59,Santa Luzia,2493.00
+10718915,Ivory,41,Contagem,1616.00
+10718936,Bennie,43,Belo Horizonte,1563.00
+10718957,Drucilla,25,Ribeirão das Neves,2309.00
+10718978,Rhonda,33,Betim,2112.00
+10718999,Floree,34,Santa Luzia,2011.00
+10719020,Navajo,51,Ribeirão das Neves,1840.00
+10719041,Bridget,59,Belo Horizonte,1569.00
+10719062,Terry,33,Ribeirão das Neves,2045.00
+10719083,Katheryne,56,Contagem,1713.00
+10719104,Lynn,42,Betim,2451.00
+10719125,Naomi,22,Contagem,2130.00
+10719146,Leora,48,Ribeirão das Neves,2495.00
+10719167,Audree,41,Belo Horizonte,2388.00
+10719188,Opal,29,Santa Luzia,1691.00
+10719209,Buena,35,Contagem,2200.00
+10719230,Clio,59,Contagem,1571.00
+10719251,Charley,38,Contagem,2431.00
+10719272,Francesco,22,Contagem,2228.00
+10719293,Thelma,40,Contagem,2257.00
+10719314,Irene,50,Contagem,1440.00
+10719335,Carrie,44,Betim,2051.00
+10719356,Margarett,20,Betim,2080.00
+10719377,Berneice,57,Belo Horizonte,2435.00
+10719398,Lish,56,Ribeirão das Neves,1977.00
+10719419,Laverna,32,Betim,2430.00
+10719440,Lavena,35,Betim,2022.00
+10719461,Lovella,56,Betim,2407.00
+10719482,Tena,59,Contagem,2154.00
+10719503,Cleon,58,Santa Luzia,1682.00
+10719524,Curt,21,Santa Luzia,2064.00
+10719545,Waneta,32,Ribeirão das Neves,1653.00
+10719566,Willena,38,Santa Luzia,2447.00
+10719587,Evan,45,Betim,1692.00
+10719608,Lillia,59,Betim,1777.00
+10719629,Jane,53,Ribeirão das Neves,1339.00
+10719650,Foster,31,Belo Horizonte,2120.00
+10719671,Layton,58,Ribeirão das Neves,2428.00
+10719692,Albin,58,Santa Luzia,1774.00
+10719713,Sewell,28,Contagem,1624.00
+10719734,Norman,37,Santa Luzia,1396.00
+10719755,Chaney,18,Betim,1542.00
+10719776,Boysie,29,Ribeirão das Neves,2208.00
+10719797,Carlotta,50,Ribeirão das Neves,1891.00
+10719818,Mercy,45,Santa Luzia,1557.00
+10719839,Belva,51,Santa Luzia,2334.00
+10719860,Estefana,19,Belo Horizonte,2068.00
+10719881,Lexie,39,Betim,1867.00
+10719902,Nola,36,Betim,1301.00
+10719923,Pete,53,Belo Horizonte,2339.00
+10719944,Lacy,53,Belo Horizonte,2393.00
+10719965,Roy,31,Belo Horizonte,2445.00
+10719986,Lincoln,21,Contagem,1823.00
+10720007,Sandy,27,Betim,1368.00
+10720028,Geneva,54,Santa Luzia,1940.00
+10720049,Roxie,53,Contagem,2003.00
+10720070,Ennis,44,Contagem,1580.00
+10720091,Mima,24,Belo Horizonte,1359.00
+10720112,Zita,19,Contagem,1624.00
+10720133,Wilhelm,40,Belo Horizonte,2010.00
+10720154,Verniece,54,Contagem,2323.00
+10720175,Patsy,22,Belo Horizonte,1973.00
+10720196,Gail,34,Ribeirão das Neves,2031.00
+10720217,Edmund,19,Ribeirão das Neves,2295.00
+10720238,Rosendo,44,Santa Luzia,2134.00
+10720259,Arch,18,Santa Luzia,1350.00
+10720280,Laura,19,Belo Horizonte,1503.00
+10720301,Mertie,22,Contagem,1930.00
+10720322,Leitha,40,Betim,2162.00
+10720343,Dorris,36,Santa Luzia,1567.00
+10720364,Malcom,57,Santa Luzia,1612.00
+10720385,Minna,27,Contagem,1311.00
+10720406,Rich,35,Contagem,1609.00
+10720427,Gardner,54,Betim,2154.00
+10720448,Emilio,27,Ribeirão das Neves,1849.00
+10720469,Elise,31,Ribeirão das Neves,1915.00
+10720490,Blair,57,Ribeirão das Neves,1461.00
+10720511,Olga,37,Santa Luzia,2038.00
+10720532,Mac,45,Contagem,2444.00
+10720553,Lupe,33,Ribeirão das Neves,1949.00
+10720574,Altha,20,Santa Luzia,2436.00
+10720595,Prudence,34,Ribeirão das Neves,1905.00
+10720616,Hilma,26,Ribeirão das Neves,1749.00
+10720637,Baxter,40,Betim,2313.00
+10720658,Franklyn,34,Betim,1668.00
+10720679,Ulysses,38,Betim,1428.00
+10720700,Thora,51,Contagem,1943.00
+10720721,Roseanna,58,Contagem,1339.00
+10720742,Vivian,55,Belo Horizonte,2451.00
+10720763,Nida,39,Santa Luzia,1971.00
+10720784,Lilie,43,Ribeirão das Neves,2345.00
+10720805,Vincent,58,Belo Horizonte,2199.00
+10720826,Thekla,58,Ribeirão das Neves,2263.00
+10720847,Beryl,59,Contagem,1718.00
+10720868,Ray,39,Ribeirão das Neves,1359.00
+10720889,Birdie,24,Belo Horizonte,1436.00
+10720910,Elenor,47,Contagem,2121.00
+10720931,Elmore,47,Contagem,1767.00
+10720952,Ethyl,55,Santa Luzia,1883.00
+10720973,Einar,25,Santa Luzia,1938.00
+10720994,Deborah,19,Betim,1552.00
+10721015,Margretta,34,Santa Luzia,1967.00
+10721036,Freddie,36,Ribeirão das Neves,2064.00
+10721057,Garnet,31,Belo Horizonte,1773.00
+10721078,Alan,50,Contagem,1687.00
+10721099,Emmitt,54,Santa Luzia,1534.00
+10721120,Verner,46,Betim,2179.00
+10721141,Petra,52,Contagem,2316.00
+10721162,Henrietta,47,Belo Horizonte,2055.00
+10721183,Erminia,27,Belo Horizonte,2315.00
+10721204,Ida,21,Belo Horizonte,1607.00
+10721225,Rudolph,49,Belo Horizonte,1422.00
+10721246,Loyd,34,Betim,1309.00
+10721267,Hope,27,Santa Luzia,2148.00
+10721288,Ellsworth,41,Contagem,1644.00
+10721309,Graham,54,Ribeirão das Neves,1924.00
+10721330,Sallye,49,Belo Horizonte,2421.00
+10721351,Atha,35,Betim,1752.00
+10721372,Lovey,42,Betim,1872.00
+10721393,Elliott,27,Ribeirão das Neves,1469.00
+10721414,Josiephine,36,Ribeirão das Neves,1901.00
+10721435,Lucia,26,Ribeirão das Neves,1443.00
+10721456,Minda,53,Contagem,2393.00
+10721477,Lovie,37,Santa Luzia,1830.00
+10721498,Verne,21,Contagem,2222.00
+10721519,Ardelia,26,Betim,1626.00
+10721540,Ula,22,Belo Horizonte,1901.00
+10721561,Greta,48,Ribeirão das Neves,1914.00
+10721582,Senora,32,Contagem,2047.00
+10721603,Dessie,59,Betim,2375.00
+10721624,Evans,21,Betim,2172.00
+10721645,Chester,34,Belo Horizonte,2082.00
+10721666,Addie,35,Ribeirão das Neves,2025.00
+10721687,Faith,21,Contagem,1715.00
+10721708,Wiliam,29,Contagem,2405.00
+10721729,Malachi,59,Belo Horizonte,1821.00
+10721750,Ancil,41,Belo Horizonte,1565.00
+10721771,Loretto,47,Santa Luzia,1350.00
+10721792,Linnie,25,Contagem,1910.00
+10721813,Romie,30,Santa Luzia,1888.00
+10721834,Miguel,33,Ribeirão das Neves,1792.00
+10721855,Adrienne,30,Contagem,1830.00
+10721876,Hamp,52,Santa Luzia,2138.00
+10721897,Berenice,21,Belo Horizonte,1502.00
+10721918,Adline,21,Contagem,1368.00
+10721939,Shirley,51,Contagem,1500.00
+10721960,Benedict,57,Ribeirão das Neves,1854.00
+10721981,Glenda,32,Santa Luzia,1489.00
+10722002,Cordelia,58,Betim,1578.00
+10722023,Walter,47,Ribeirão das Neves,2215.00
+10722044,Bena,42,Belo Horizonte,1845.00
+10722065,Junious,42,Ribeirão das Neves,2337.00
+10722086,Clifton,26,Betim,1733.00
+10722107,Paul,40,Belo Horizonte,1516.00
+10722128,Fred,30,Ribeirão das Neves,2411.00
+10722149,Adelle,43,Santa Luzia,2219.00
+10722170,Luciel,47,Santa Luzia,1502.00
+10722191,Theda,56,Contagem,1705.00
+10722212,Marguerita,47,Contagem,2131.00
+10722233,Ottilie,37,Betim,1635.00
+10722254,Gilda,39,Ribeirão das Neves,2283.00
+10722275,Houston,52,Santa Luzia,2475.00
+10722296,Duane,48,Ribeirão das Neves,2071.00
+10722317,Rachael,40,Contagem,2200.00
+10722338,Gwendolyn,28,Ribeirão das Neves,1791.00
+10722359,Etter,26,Contagem,2092.00
+10722380,Bill,38,Betim,1325.00
+10722401,Omer,55,Ribeirão das Neves,1605.00
+10722422,Emilia,22,Ribeirão das Neves,1873.00
+10722443,Addie,40,Betim,1630.00
+10722464,Edmonia,46,Contagem,1427.00
+10722485,Buell,40,Belo Horizonte,1472.00
+10722506,Mckinley,59,Contagem,2217.00
+10722527,Wilmer,30,Ribeirão das Neves,2095.00
+10722548,Lorenzo,20,Ribeirão das Neves,1763.00
+10722569,Metta,21,Santa Luzia,2435.00
+10722590,Tecla,31,Belo Horizonte,1865.00
+10722611,Candida,30,Betim,2089.00
+10722632,Clovie,42,Betim,1858.00
+10722653,Ena,56,Betim,1342.00
+10722674,Merrill,34,Ribeirão das Neves,1848.00
+10722695,Beatrice,20,Belo Horizonte,1940.00
+10722716,Bee,22,Ribeirão das Neves,1536.00
+10722737,Wayman,27,Santa Luzia,1912.00
+10722758,Rosina,53,Santa Luzia,1654.00
+10722779,Alton,26,Belo Horizonte,1636.00
+10722800,Clemmie,56,Santa Luzia,1700.00
+10722821,Warren,42,Betim,2270.00
+10722842,Ambrose,29,Contagem,1888.00
+10722863,Elmira,42,Belo Horizonte,2384.00
+10722884,Edna,55,Betim,2225.00
+10722905,Jesus,38,Ribeirão das Neves,1406.00
+10722926,Coy,30,Betim,1884.00
+10722947,Tilda,28,Betim,2035.00
+10722968,Signa,37,Contagem,1859.00
+10722989,Lacy,46,Santa Luzia,1941.00
+10723010,Connie,20,Ribeirão das Neves,1428.00
+10723031,Aliene,30,Ribeirão das Neves,2386.00
+10723052,Emerson,48,Santa Luzia,2266.00
+10723073,Azalee,19,Betim,1773.00
+10723094,Lucy,44,Belo Horizonte,2163.00
+10723115,Wilber,24,Santa Luzia,2287.00
+10723136,Wesley,58,Contagem,1515.00
+10723157,Gudrun,26,Betim,2104.00
+10723178,Mariah,56,Ribeirão das Neves,1513.00
+10723199,Christie,21,Belo Horizonte,1309.00
+10723220,Truman,19,Contagem,2312.00
+10723241,Courtney,29,Santa Luzia,1497.00
+10723262,Lucia,22,Contagem,1867.00
+10723283,Edwina,58,Ribeirão das Neves,1828.00
+10723304,Trixie,33,Santa Luzia,1685.00
+10723325,Sidney,55,Ribeirão das Neves,1442.00
+10723346,Irene,43,Contagem,1742.00
+10723367,Bernice,44,Betim,1355.00
+10723388,Silas,47,Betim,1402.00
+10723409,Bernita,40,Betim,1868.00
+10723430,Evert,59,Ribeirão das Neves,2363.00
+10723451,Jhon,23,Santa Luzia,2160.00
+10723472,Webb,18,Betim,2310.00
+10723493,Glenn,28,Belo Horizonte,2335.00
+10723514,Opal,34,Contagem,1571.00
+10723535,Olivia,45,Belo Horizonte,2416.00
+10723556,Aloysius,59,Contagem,1641.00
+10723577,Jesse,23,Betim,2127.00
+10723598,Burnice,38,Betim,1951.00
+10723619,Olaf,37,Belo Horizonte,2407.00
+10723640,Loyce,19,Belo Horizonte,1730.00
+10723661,Osie,53,Betim,2061.00
+10723682,Hazle,30,Contagem,2133.00
+10723703,Sibyl,26,Contagem,1837.00
+10723724,Atlas,53,Santa Luzia,2091.00
+10723745,Cleo,34,Santa Luzia,2187.00
+10723766,Ozzie,39,Betim,1649.00
+10723787,Clova,45,Belo Horizonte,1954.00
+10723808,Obera,38,Contagem,1771.00
+10723829,Pink,36,Belo Horizonte,2209.00
+10723850,Rachael,31,Belo Horizonte,2006.00
+10723871,Eliot,26,Belo Horizonte,1336.00
+10723892,Colleen,20,Contagem,2230.00
+10723913,Dena,54,Ribeirão das Neves,2119.00
+10723934,Lorene,47,Santa Luzia,2429.00
+10723955,Olin,21,Belo Horizonte,1447.00
+10723976,Hoyt,28,Belo Horizonte,1320.00
+10723997,Shizuyo,51,Contagem,2122.00
+10724018,Agnes,50,Ribeirão das Neves,1931.00
+10724039,Houston,36,Contagem,2371.00
+10724060,Wilmer,35,Belo Horizonte,2412.00
+10724081,Salina,41,Belo Horizonte,1779.00
+10724102,Benjaman,51,Santa Luzia,2480.00
+10724123,Reed,38,Belo Horizonte,1496.00
+10724144,Jesse,35,Ribeirão das Neves,2026.00
+10724165,Alvie,32,Contagem,1768.00
+10724186,Bernie,27,Santa Luzia,1730.00
+10724207,Corrinne,20,Betim,1520.00
+10724228,Docia,46,Betim,1580.00
+10724249,Ras,25,Betim,1764.00
+10724270,Butler,20,Santa Luzia,1325.00
+10724291,Letha,38,Belo Horizonte,2368.00
+10724312,Daisey,22,Contagem,1800.00
+10724333,Paralee,52,Ribeirão das Neves,1320.00
+10724354,Alvin,22,Belo Horizonte,1750.00
+10724375,Jennette,31,Santa Luzia,1904.00
+10724396,Dorr,49,Ribeirão das Neves,2015.00
+10724417,Boyd,30,Santa Luzia,2406.00
+10724438,Otelia,34,Contagem,1753.00
+10724459,Jeanette,37,Ribeirão das Neves,1828.00
+10724480,Arlie,26,Santa Luzia,2029.00
+10724501,Elmire,57,Betim,1693.00
+10724522,Rulon,52,Ribeirão das Neves,2180.00
+10724543,Era,29,Santa Luzia,1787.00
+10724564,Vivian,43,Belo Horizonte,1433.00
+10724585,Pinkey,43,Contagem,1975.00
+10724606,Oma,22,Betim,1779.00
+10724627,Lilian,47,Contagem,1766.00
+10724648,Hannah,22,Betim,2439.00
+10724669,Jonas,33,Santa Luzia,2283.00
+10724690,Verne,27,Belo Horizonte,1880.00
+10724711,Lorine,40,Betim,1594.00
+10724732,Lucinda,35,Contagem,1614.00
+10724753,Barton,57,Belo Horizonte,2268.00
+10724774,Margart,58,Belo Horizonte,2476.00
+10724795,Dena,22,Ribeirão das Neves,2277.00
+10724816,Rhea,40,Belo Horizonte,2279.00
+10724837,Mathias,59,Belo Horizonte,2309.00
+10724858,Tula,24,Ribeirão das Neves,2133.00
+10724879,Rosaria,40,Belo Horizonte,2371.00
+10724900,Carol,33,Betim,2418.00
+10724921,Kelley,49,Belo Horizonte,2072.00
+10724942,Gracie,33,Belo Horizonte,2101.00
+10724963,Lenna,27,Betim,1929.00
+10724984,Vita,22,Belo Horizonte,1988.00
+10725005,Emer,54,Contagem,2183.00
+10725026,Abbie,49,Betim,1312.00
+10725047,Florie,56,Contagem,1307.00
+10725068,Sigrid,54,Contagem,2433.00
+10725089,Manuelita,43,Ribeirão das Neves,2178.00
+10725110,Leamon,32,Belo Horizonte,1878.00
+10725131,Luda,28,Santa Luzia,2248.00
+10725152,Iona,46,Belo Horizonte,2310.00
+10725173,Zelda,32,Belo Horizonte,1389.00
+10725194,Jess,32,Belo Horizonte,2233.00
+10725215,Vernon,21,Betim,1630.00
+10725236,Leona,29,Contagem,2444.00
+10725257,Stacy,42,Contagem,1935.00
+10725278,Heber,59,Contagem,1841.00
+10725299,Capitola,20,Belo Horizonte,1495.00
+10725320,Wavie,35,Santa Luzia,2063.00
+10725341,Ona,27,Betim,1886.00
+10725362,Florance,32,Betim,1876.00
+10725383,Corina,34,Ribeirão das Neves,2477.00
+10725404,Clarice,24,Belo Horizonte,2453.00
+10725425,Woodie,24,Betim,1335.00
+10725446,Charlie,34,Contagem,2189.00
+10725467,Lou,44,Santa Luzia,1868.00
+10725488,Fletcher,33,Betim,2331.00
+10725509,Jimmie,42,Ribeirão das Neves,2350.00
+10725530,Blair,36,Santa Luzia,1959.00
+10725551,Rhea,22,Belo Horizonte,1907.00
+10725572,Toy,22,Ribeirão das Neves,1416.00
+10725593,Elenore,20,Contagem,1561.00
+10725614,Prentiss,35,Contagem,1980.00
+10725635,Ysabel,26,Betim,1836.00
+10725656,Bonnie,56,Contagem,1702.00
+10725677,Melbourne,23,Ribeirão das Neves,2182.00
+10725698,Helene,18,Contagem,1639.00
+10725719,Mahala,56,Betim,1625.00
+10725740,Gail,40,Contagem,1915.00
+10725761,Bluford,45,Contagem,1948.00
+10725782,Vivian,18,Contagem,1664.00
+10725803,Ruben,40,Ribeirão das Neves,1774.00
+10725824,Albina,48,Belo Horizonte,1801.00
+10725845,Paulina,54,Contagem,1698.00
+10725866,Ollie,40,Santa Luzia,2468.00
+10725887,Lou,33,Ribeirão das Neves,2215.00
+10725908,Drusilla,38,Santa Luzia,1758.00
+10725929,Buford,19,Santa Luzia,1924.00
+10725950,Francis,24,Contagem,1777.00
+10725971,Treva,25,Betim,2052.00
+10725992,Missie,39,Santa Luzia,1366.00
+10726013,Luigi,55,Contagem,1446.00
+10726034,Earle,46,Betim,2307.00
+10726055,Mahlon,32,Ribeirão das Neves,1655.00
+10726076,Cleave,50,Betim,2174.00
+10726097,Kate,47,Santa Luzia,1838.00
+10726118,Florine,26,Belo Horizonte,2021.00
+10726139,Vesta,46,Contagem,1382.00
+10726160,Zenobia,30,Santa Luzia,1899.00
+10726181,Buelah,55,Belo Horizonte,1368.00
+10726202,Belinda,48,Belo Horizonte,2344.00
+10726223,Ula,40,Contagem,2113.00
+10726244,Norris,50,Belo Horizonte,2318.00
+10726265,Lloyd,47,Betim,2342.00
+10726286,Dan,45,Santa Luzia,1928.00
+10726307,Leva,22,Belo Horizonte,1514.00
+10726328,Alva,24,Betim,1336.00
+10726349,Grady,39,Belo Horizonte,1699.00
+10726370,Fanchon,35,Ribeirão das Neves,1329.00
+10726391,Alva,41,Ribeirão das Neves,1502.00
+10726412,Irvin,46,Ribeirão das Neves,2178.00
+10726433,Audie,57,Ribeirão das Neves,2500.00
+10726454,Milburn,41,Ribeirão das Neves,1868.00
+10726475,Trudie,42,Ribeirão das Neves,2458.00
+10726496,Noreen,24,Betim,2419.00
+10726517,Sylvia,40,Betim,1586.00
+10726538,Hardy,32,Contagem,2335.00
+10726559,Novella,57,Betim,1880.00
+10726580,Early,24,Contagem,2486.00
+10726601,Philip,44,Contagem,1362.00
+10726622,Beulah,28,Betim,1491.00
+10726643,Clemons,47,Santa Luzia,2464.00
+10726664,Arvin,24,Santa Luzia,2174.00
+10726685,Lucinda,34,Betim,1905.00
+10726706,Nila,24,Belo Horizonte,2482.00
+10726727,Felicia,30,Santa Luzia,1468.00
+10726748,Brian,31,Santa Luzia,2117.00
+10726769,Catherine,40,Ribeirão das Neves,1508.00
+10726790,Doll,42,Belo Horizonte,1448.00
+10726811,Georgetta,37,Belo Horizonte,2277.00
+10726832,Antonia,25,Belo Horizonte,2421.00
+10726853,Felicia,45,Ribeirão das Neves,1765.00
+10726874,Betsy,22,Belo Horizonte,2269.00
+10726895,Betty,26,Ribeirão das Neves,2359.00
+10726916,Arilla,18,Betim,2278.00
+10726937,Tera,33,Ribeirão das Neves,2129.00
+10726958,Essie,25,Ribeirão das Neves,2333.00
+10726979,Lorine,54,Ribeirão das Neves,1911.00
+10727000,Ruth,40,Santa Luzia,2086.00
+10727021,Palmer,25,Contagem,1707.00
+10727042,Mike,26,Santa Luzia,1448.00
+10727063,Mozelle,25,Contagem,1988.00
+10727084,Benjamin,42,Santa Luzia,1582.00
+10727105,Mora,43,Belo Horizonte,1310.00
+10727126,Lum,51,Belo Horizonte,2152.00
+10727147,Laurel,56,Santa Luzia,2238.00
+10727168,Roland,58,Contagem,1733.00
+10727189,Chas,39,Ribeirão das Neves,1424.00
+10727210,Iva,27,Contagem,2434.00
+10727231,Mariana,30,Ribeirão das Neves,2049.00
+10727252,Martha,20,Betim,2040.00
+10727273,Winston,25,Santa Luzia,1990.00
+10727294,Lula,29,Belo Horizonte,2217.00
+10727315,Dora,23,Ribeirão das Neves,2107.00
+10727336,Luz,57,Betim,1999.00
+10727357,Arley,49,Belo Horizonte,2249.00
+10727378,Verna,35,Santa Luzia,1676.00
+10727399,Archibald,59,Belo Horizonte,2381.00
+10727420,Ellwood,18,Santa Luzia,1777.00
+10727441,Christopher,45,Belo Horizonte,2233.00
+10727462,Vassie,38,Betim,1958.00
+10727483,Noelie,39,Santa Luzia,1491.00
+10727504,Reola,57,Santa Luzia,2457.00
+10727525,Beauford,29,Santa Luzia,1300.00
+10727546,Ann,24,Betim,1734.00
+10727567,Angela,43,Betim,1991.00
+10727588,Ennis,59,Betim,1662.00
+10727609,Ivar,40,Betim,1387.00
+10727630,Gregoria,27,Betim,2401.00
+10727651,Minervia,32,Belo Horizonte,1552.00
+10727672,Lawrence,18,Betim,2353.00
+10727693,Dallie,21,Ribeirão das Neves,1760.00
+10727714,Profit,26,Ribeirão das Neves,1867.00
+10727735,Ozzie,58,Contagem,1403.00
+10727756,Letty,19,Santa Luzia,1568.00
+10727777,Rich,48,Belo Horizonte,2218.00
+10727798,Otho,41,Santa Luzia,2009.00
+10727819,Corrie,28,Ribeirão das Neves,1745.00
+10727840,Cleola,52,Betim,2382.00
+10727861,Dona,31,Santa Luzia,1627.00
+10727882,Orval,38,Contagem,2065.00
+10727903,Georgianna,45,Ribeirão das Neves,1708.00
+10727924,Logan,35,Belo Horizonte,2090.00
+10727945,Gerson,46,Betim,2289.00
+10727966,Josh,43,Santa Luzia,1365.00
+10727987,Chessie,33,Santa Luzia,1923.00
+10728008,Euline,18,Contagem,2124.00
+10728029,Lavera,47,Belo Horizonte,2494.00
+10728050,Pairlee,29,Santa Luzia,2415.00
+10728071,Juanita,28,Santa Luzia,1526.00
+10728092,Madison,37,Ribeirão das Neves,1976.00
+10728113,Maceo,28,Ribeirão das Neves,2055.00
+10728134,Noble,30,Betim,1776.00
+10728155,Diana,34,Santa Luzia,2264.00
+10728176,Carmen,57,Contagem,2283.00
+10728197,Maude,43,Ribeirão das Neves,2419.00
+10728218,Dane,22,Contagem,2027.00
+10728239,Bruno,57,Santa Luzia,1378.00
+10728260,Elizebeth,54,Betim,2277.00
+10728281,Marget,33,Betim,1495.00
+10728302,Ottilia,59,Belo Horizonte,1386.00
+10728323,Priscilla,59,Belo Horizonte,1604.00
+10728344,Alger,43,Santa Luzia,1310.00
+10728365,Milford,41,Ribeirão das Neves,2406.00
+10728386,Colette,29,Contagem,1983.00
+10728407,Josephus,57,Ribeirão das Neves,2226.00
+10728428,Carl,38,Santa Luzia,2200.00
+10728449,Gene,46,Ribeirão das Neves,2035.00
+10728470,Worthy,23,Belo Horizonte,1617.00
+10728491,Etna,39,Belo Horizonte,1629.00
+10728512,Vlasta,56,Ribeirão das Neves,1699.00
+10728533,Vela,33,Ribeirão das Neves,2457.00
+10728554,Alfred,57,Contagem,1531.00
+10728575,Crockett,51,Santa Luzia,2429.00
+10728596,Lyle,29,Contagem,2337.00
+10728617,Bernhard,19,Betim,1596.00
+10728638,Ether,18,Betim,2039.00
+10728659,Roger,22,Contagem,1586.00
+10728680,Lonzo,30,Contagem,1360.00
+10728701,Sula,18,Ribeirão das Neves,1319.00
+10728722,Sylva,38,Contagem,1665.00
+10728743,Nola,28,Ribeirão das Neves,1658.00
+10728764,Mame,40,Santa Luzia,1511.00
+10728785,Talmadge,57,Ribeirão das Neves,1641.00
+10728806,Gracia,28,Betim,2205.00
+10728827,Clarabelle,51,Betim,1605.00
+10728848,Savilla,42,Ribeirão das Neves,2444.00
+10728869,Alfonso,31,Santa Luzia,2010.00
+10728890,Gaye,49,Contagem,1750.00
+10728911,Glennie,26,Contagem,2103.00
+10728932,Corrine,55,Belo Horizonte,2409.00
+10728953,Elizabeth,37,Betim,2247.00
+10728974,Keith,42,Belo Horizonte,1872.00
+10728995,Nickolas,51,Ribeirão das Neves,2183.00
+10729016,Birtie,20,Belo Horizonte,1737.00
+10729037,Elzie,46,Santa Luzia,2088.00
+10729058,Donna,26,Contagem,2239.00
+10729079,Ethel,34,Contagem,2091.00
+10729100,Andy,28,Santa Luzia,1506.00
+10729121,Newton,59,Betim,2163.00
+10729142,Alline,41,Santa Luzia,1675.00
+10729163,Eugene,40,Belo Horizonte,1316.00
+10729184,Odessa,58,Contagem,1434.00
+10729205,Paulina,40,Belo Horizonte,2196.00
+10729226,Adda,54,Belo Horizonte,2128.00
+10729247,Otis,50,Santa Luzia,1975.00
+10729268,Lota,23,Betim,2253.00
+10729289,Edwin,21,Contagem,1895.00
+10729310,Taylor,21,Contagem,1437.00
+10729331,Philomena,36,Santa Luzia,1865.00
+10729352,Jesse,53,Belo Horizonte,1473.00
+10729373,Rosa,55,Ribeirão das Neves,1513.00
+10729394,Gaynelle,19,Contagem,1939.00
+10729415,Ann,53,Contagem,2056.00
+10729436,Grace,51,Betim,1424.00
+10729457,Norine,23,Betim,2358.00
+10729478,Bird,18,Betim,1485.00
+10729499,Donnie,49,Ribeirão das Neves,1748.00
+10729520,Henderson,53,Santa Luzia,1615.00
+10729541,Monica,42,Ribeirão das Neves,2004.00
+10729562,Dexter,43,Belo Horizonte,1952.00
+10729583,Rena,51,Belo Horizonte,1521.00
+10729604,Nena,31,Santa Luzia,1738.00
+10729625,Wilfrid,18,Betim,2039.00
+10729646,Margaret,22,Betim,2159.00
+10729667,Afton,22,Ribeirão das Neves,1910.00
+10729688,Birdie,52,Betim,1778.00
+10729709,Walter,50,Contagem,2261.00
+10729730,Ross,38,Contagem,1872.00
+10729751,Kelly,33,Betim,2352.00
+10729772,Roscoe,39,Ribeirão das Neves,1738.00
+10729793,Wilda,56,Betim,2077.00
+10729814,Burley,55,Santa Luzia,1693.00
+10729835,Adaline,53,Ribeirão das Neves,2480.00
+10729856,Norma,18,Betim,2104.00
+10729877,Lem,42,Contagem,1361.00
+10729898,Verne,29,Betim,1327.00
+10729919,Emmanuel,58,Ribeirão das Neves,2357.00
+10729940,Rosey,21,Betim,1551.00
+10729961,Zoe,18,Ribeirão das Neves,2010.00
+10729982,Elsa,20,Santa Luzia,1726.00
+10730003,Lyda,42,Belo Horizonte,1593.00
+10730024,Oliver,26,Contagem,2470.00
+10730045,Sophronia,38,Ribeirão das Neves,2249.00
+10730066,Rosielee,29,Santa Luzia,1353.00
+10730087,Genie,54,Betim,1870.00
+10730108,Ayako,21,Betim,2496.00
+10730129,Bud,53,Ribeirão das Neves,1595.00
+10730150,Eliza,30,Betim,1570.00
+10730171,Christena,34,Belo Horizonte,1898.00
+10730192,Elmira,52,Santa Luzia,2044.00
+10730213,Warner,22,Contagem,1543.00
+10730234,Leanore,55,Betim,1335.00
+10730255,Theo,20,Betim,2003.00
+10730276,Peggy,46,Contagem,2466.00
+10730297,Terry,23,Santa Luzia,2072.00
+10730318,Bob,51,Belo Horizonte,2277.00
+10730339,Carmelo,32,Santa Luzia,2082.00
+10730360,Sylvester,29,Contagem,1404.00
+10730381,Annah,56,Ribeirão das Neves,1890.00
+10730402,Mina,45,Ribeirão das Neves,2068.00
+10730423,Lavenia,32,Ribeirão das Neves,2074.00
+10730444,Adda,38,Santa Luzia,1416.00
+10730465,Dellie,58,Ribeirão das Neves,1936.00
+10730486,Murl,56,Santa Luzia,1304.00
+10730507,Arminda,47,Betim,2386.00
+10730528,Kirby,35,Contagem,1590.00
+10730549,Fleeta,55,Belo Horizonte,2107.00
+10730570,Vernetta,23,Santa Luzia,1540.00
+10730591,Jesusa,41,Contagem,2416.00
+10730612,Simmie,50,Ribeirão das Neves,1538.00
+10730633,Mertice,49,Belo Horizonte,1948.00
+10730654,Marius,44,Ribeirão das Neves,1536.00
+10730675,Patsy,45,Ribeirão das Neves,1788.00
+10730696,Pluma,44,Santa Luzia,2372.00
+10730717,Lea,30,Ribeirão das Neves,2338.00
+10730738,Bartley,49,Contagem,2492.00
+10730759,Marlys,59,Santa Luzia,2063.00
+10730780,Bessie,26,Contagem,2379.00
+10730801,Peggie,32,Contagem,2460.00
+10730822,Bella,58,Betim,1685.00
+10730843,Kathryne,32,Betim,1859.00
+10730864,Fletcher,44,Betim,1353.00
+10730885,Authur,59,Ribeirão das Neves,1529.00
+10730906,Ashley,39,Contagem,2178.00
+10730927,Allison,32,Santa Luzia,1887.00
+10730948,Ozzie,19,Ribeirão das Neves,1307.00
+10730969,Jesse,33,Contagem,1728.00
+10730990,Leanora,22,Santa Luzia,1910.00
+10731011,Cecille,40,Belo Horizonte,1722.00
+10731032,Armanda,21,Ribeirão das Neves,1365.00
+10731053,Angelo,26,Santa Luzia,1987.00
+10731074,Vicie,31,Ribeirão das Neves,1347.00
+10731095,Harlie,54,Contagem,1428.00
+10731116,Otie,59,Betim,2013.00
+10731137,Denise,25,Contagem,1814.00
+10731158,Florance,41,Contagem,1989.00
+10731179,Joella,48,Belo Horizonte,1695.00
+10731200,Juliette,48,Betim,1318.00
+10731221,Henry,34,Belo Horizonte,1376.00
+10731242,Lafayette,30,Belo Horizonte,1769.00
+10731263,Bitha,22,Belo Horizonte,2202.00
+10731284,Hannah,45,Contagem,2267.00
+10731305,Lonia,32,Ribeirão das Neves,2438.00
+10731326,Tina,32,Contagem,2298.00
+10731347,Sam,38,Contagem,1446.00
+10731368,Ray,19,Betim,1531.00
+10731389,Antoinette,30,Belo Horizonte,2197.00
+10731410,Ignatius,35,Ribeirão das Neves,1894.00
+10731431,Marco,41,Contagem,1699.00
+10731452,Ira,48,Ribeirão das Neves,2037.00
+10731473,Lew,50,Belo Horizonte,1355.00
+10731494,Dorathea,33,Ribeirão das Neves,1375.00
+10731515,Lora,42,Ribeirão das Neves,1416.00
+10731536,Willie,38,Belo Horizonte,2488.00
+10731557,Olene,50,Belo Horizonte,1611.00
+10731578,Classie,26,Contagem,2128.00
+10731599,Rosey,42,Contagem,2153.00
+10731620,Lance,57,Belo Horizonte,1389.00
+10731641,Margueritte,38,Santa Luzia,2349.00
+10731662,Marybelle,48,Santa Luzia,2091.00
+10731683,Wells,45,Ribeirão das Neves,2321.00
+10731704,Mathew,48,Ribeirão das Neves,1741.00
+10731725,Etter,46,Betim,1311.00
+10731746,Averil,19,Contagem,1873.00
+10731767,Woodie,27,Contagem,2413.00
+10731788,Erick,58,Betim,1649.00
+10731809,Bradford,22,Contagem,2364.00
+10731830,Alzina,30,Contagem,1766.00
+10731851,Michael,39,Santa Luzia,1521.00
+10731872,Madlyn,42,Betim,1936.00
+10731893,Ira,57,Betim,2048.00
+10731914,Emmaline,29,Santa Luzia,1604.00
+10731935,Beula,49,Santa Luzia,1392.00
+10731956,Enos,31,Belo Horizonte,1391.00
+10731977,Myrl,54,Belo Horizonte,2425.00
+10731998,Benton,28,Betim,2182.00
+10732019,Elta,20,Contagem,1862.00
+10732040,Page,52,Belo Horizonte,1940.00
+10732061,Eve,45,Ribeirão das Neves,1495.00
+10732082,Mossie,26,Betim,1602.00
+10732103,Laverna,32,Santa Luzia,1999.00
+10732124,Tula,28,Santa Luzia,2352.00
+10732145,Leo,19,Belo Horizonte,1756.00
+10732166,Theophile,34,Belo Horizonte,1603.00
+10732187,Julius,29,Santa Luzia,2428.00
+10732208,Ivey,36,Santa Luzia,2201.00
+10732229,Frank,40,Betim,1528.00
+10732250,Jo,36,Contagem,2101.00
+10732271,Gena,21,Ribeirão das Neves,1468.00
+10732292,Pauline,49,Belo Horizonte,1553.00
+10732313,Dillard,44,Ribeirão das Neves,2036.00
+10732334,Kay,55,Santa Luzia,2483.00
+10732355,William,54,Ribeirão das Neves,1879.00
+10732376,Herman,27,Betim,2164.00
+10732397,Dee,31,Santa Luzia,2248.00
+10732418,Harmon,32,Betim,1876.00
+10732439,Mercy,57,Ribeirão das Neves,1856.00
+10732460,Cristobal,34,Betim,2188.00
+10732481,Henrietta,49,Belo Horizonte,1769.00
+10732502,Haskell,28,Santa Luzia,2007.00
+10732523,Emmit,55,Ribeirão das Neves,1621.00
+10732544,Evan,53,Belo Horizonte,2360.00
+10732565,Jane,46,Ribeirão das Neves,1307.00
+10732586,Cecille,59,Betim,1690.00
+10732607,Cathryn,27,Santa Luzia,1694.00
+10732628,Annie,27,Santa Luzia,2269.00
+10732649,Don,25,Santa Luzia,1560.00
+10732670,Fritz,58,Ribeirão das Neves,1589.00
+10732691,Mandy,23,Belo Horizonte,1409.00
+10732712,Lamar,27,Santa Luzia,1386.00
+10732733,George,45,Ribeirão das Neves,2450.00
+10732754,Connie,18,Contagem,1457.00
+10732775,Liller,36,Contagem,2083.00
+10732796,Agness,56,Santa Luzia,1466.00
+10732817,Allyne,52,Belo Horizonte,1760.00
+10732838,Carmine,30,Betim,1712.00
+10732859,Christen,40,Ribeirão das Neves,1753.00
+10732880,Anastasia,57,Santa Luzia,1707.00
+10732901,Tilda,57,Ribeirão das Neves,2151.00
+10732922,Minette,52,Santa Luzia,2070.00
+10732943,Paulina,44,Contagem,1806.00
+10732964,Adolphus,23,Betim,1646.00
+10732985,Lisette,39,Betim,1586.00
+10733006,Hedwig,49,Ribeirão das Neves,2489.00
+10733027,Tilda,38,Santa Luzia,2181.00
+10733048,Lillie,43,Belo Horizonte,2159.00
+10733069,Rosalyn,21,Belo Horizonte,1678.00
+10733090,Norris,44,Betim,2306.00
+10733111,Dee,33,Santa Luzia,2480.00
+10733132,Tony,32,Santa Luzia,1742.00
+10733153,Ermine,18,Betim,2124.00
+10733174,Guadalupe,21,Belo Horizonte,2481.00
+10733195,Liddie,22,Santa Luzia,1569.00
+10733216,Drucilla,42,Belo Horizonte,1401.00
+10733237,Elmer,52,Ribeirão das Neves,1714.00
+10733258,Theressa,23,Santa Luzia,1907.00
+10733279,Charlton,38,Ribeirão das Neves,1639.00
+10733300,Madolyn,32,Belo Horizonte,2348.00
+10733321,Wilfred,26,Santa Luzia,1610.00
+10733342,June,52,Belo Horizonte,2363.00
+10733363,Henderson,19,Belo Horizonte,2092.00
+10733384,Bennett,34,Belo Horizonte,2241.00
+10733405,Ezell,27,Betim,2067.00
+10733426,Verlie,24,Betim,2236.00
+10733447,Pinkie,33,Santa Luzia,2372.00
+10733468,Lavina,55,Santa Luzia,1364.00
+10733489,Nettie,21,Ribeirão das Neves,2419.00
+10733510,Mammie,24,Santa Luzia,2164.00
+10733531,Marjorie,41,Belo Horizonte,1464.00
+10733552,Neva,52,Contagem,2392.00
+10733573,Refugia,35,Santa Luzia,1396.00
+10733594,Arvella,48,Contagem,2493.00
+10733615,Lamar,49,Santa Luzia,1682.00
+10733636,Laverne,34,Ribeirão das Neves,2215.00
+10733657,Marion,51,Belo Horizonte,2233.00
+10733678,Virgie,52,Ribeirão das Neves,2484.00
+10733699,Celestine,21,Santa Luzia,1653.00
+10733720,Avis,42,Santa Luzia,1900.00
+10733741,Williard,55,Belo Horizonte,1700.00
+10733762,Patsy,29,Belo Horizonte,1313.00
+10733783,Lattie,19,Ribeirão das Neves,1483.00
+10733804,Garold,59,Santa Luzia,1396.00
+10733825,Rosalyn,19,Betim,2331.00
+10733846,Truman,55,Santa Luzia,2257.00
+10733867,Arvil,38,Contagem,1424.00
+10733888,Oleva,45,Ribeirão das Neves,2479.00
+10733909,Mansfield,50,Contagem,2178.00
+10733930,Laurette,18,Santa Luzia,1902.00
+10733951,Hila,55,Santa Luzia,2017.00
+10733972,Smith,42,Santa Luzia,1772.00
+10733993,Edwin,24,Santa Luzia,1510.00
+10734014,Virginia,58,Belo Horizonte,1725.00
+10734035,Kelley,51,Betim,1579.00
+10734056,Erma,27,Betim,1978.00
+10734077,Gina,56,Betim,1763.00
+10734098,Orson,42,Betim,2384.00
+10734119,Tina,29,Santa Luzia,2211.00
+10734140,Bryan,34,Contagem,1497.00
+10734161,Cathryn,23,Ribeirão das Neves,2305.00
+10734182,Buster,22,Santa Luzia,1735.00
+10734203,Hall,19,Betim,1939.00
+10734224,Zona,33,Contagem,1435.00
+10734245,Micheal,23,Contagem,1428.00
+10734266,Neil,55,Belo Horizonte,1370.00
+10734287,Ollie,27,Ribeirão das Neves,1532.00
+10734308,Lucas,27,Ribeirão das Neves,2064.00
+10734329,Cathern,56,Betim,1676.00
+10734350,Clara,58,Betim,1520.00
+10734371,Gaither,55,Belo Horizonte,1517.00
+10734392,Josephine,31,Ribeirão das Neves,2086.00
+10734413,Evelyn,32,Betim,1484.00
+10734434,Ethyle,36,Betim,1519.00
+10734455,Edd,34,Betim,1545.00
+10734476,Maebelle,36,Belo Horizonte,1505.00
+10734497,Mammie,52,Santa Luzia,2020.00
+10734518,Verlie,30,Betim,1408.00
+10734539,Ward,27,Betim,1330.00
+10734560,Zelpha,20,Belo Horizonte,1338.00
+10734581,Maria,25,Ribeirão das Neves,1605.00
+10734602,Therese,51,Santa Luzia,2175.00
+10734623,Hulon,19,Ribeirão das Neves,2431.00
+10734644,Davis,47,Santa Luzia,1895.00
+10734665,Manuel,59,Santa Luzia,1906.00
+10734686,Alphia,20,Belo Horizonte,2480.00
+10734707,Murphy,45,Contagem,1544.00
+10734728,Bama,35,Betim,2004.00
+10734749,West,26,Contagem,1561.00
+10734770,Courtney,37,Ribeirão das Neves,1445.00
+10734791,Alvira,52,Belo Horizonte,2348.00
+10734812,Sylva,39,Ribeirão das Neves,2286.00
+10734833,Ramon,41,Contagem,2459.00
+10734854,Terry,57,Ribeirão das Neves,2352.00
+10734875,Gayle,48,Ribeirão das Neves,2278.00
+10734896,Almon,54,Contagem,1648.00
+10734917,Sol,51,Ribeirão das Neves,1386.00
+10734938,Ophie,22,Betim,1546.00
+10734959,Dana,19,Betim,1381.00
+10734980,Oralee,20,Ribeirão das Neves,2068.00
+10735001,Ela,29,Belo Horizonte,2224.00
+10735022,Polly,44,Ribeirão das Neves,1586.00
+10735043,Maron,28,Betim,1671.00
+10735064,Margery,22,Betim,1653.00
+10735085,Berry,48,Contagem,1843.00
+10735106,Peter,32,Ribeirão das Neves,1700.00
+10735127,Lovie,25,Belo Horizonte,2213.00
+10735148,Mamie,26,Ribeirão das Neves,1693.00
+10735169,Myrtie,26,Belo Horizonte,2447.00
+10735190,Gottlieb,44,Belo Horizonte,1566.00
+10735211,Lonie,25,Ribeirão das Neves,2194.00
+10735232,Cleo,36,Contagem,1631.00
+10735253,Vernie,29,Contagem,1582.00
+10735274,Clementine,49,Betim,2083.00
+10735295,Patsy,45,Contagem,2379.00
+10735316,Felicia,26,Betim,1731.00
+10735337,Margrett,43,Ribeirão das Neves,1505.00
+10735358,Lovella,23,Santa Luzia,1455.00
+10735379,Oneta,45,Ribeirão das Neves,2135.00
+10735400,Mena,22,Betim,1741.00
+10735421,Jeanne,40,Santa Luzia,1823.00
+10735442,Travis,48,Betim,1833.00
+10735463,Elisha,31,Betim,1968.00
+10735484,Alfred,18,Betim,1980.00
+10735505,Deborah,26,Ribeirão das Neves,1533.00
+10735526,Bascom,26,Contagem,2180.00
+10735547,Alfred,54,Contagem,1954.00
+10735568,Enid,33,Santa Luzia,2001.00
+10735589,Adolphus,59,Belo Horizonte,1375.00
+10735610,Eddie,55,Belo Horizonte,2049.00
+10735631,Maudie,41,Betim,1393.00
+10735652,Glenna,39,Contagem,2292.00
+10735673,Julianita,39,Ribeirão das Neves,2002.00
+10735694,Enos,45,Ribeirão das Neves,2168.00
+10735715,Octavie,31,Santa Luzia,2366.00
+10735736,Ab,21,Belo Horizonte,2214.00
+10735757,Maudell,50,Contagem,1947.00
+10735778,Lissie,59,Contagem,1400.00
+10735799,Weltha,52,Betim,1868.00
+10735820,Texas,59,Belo Horizonte,2412.00
+10735841,Lavonne,55,Belo Horizonte,1990.00
+10735862,Vincie,27,Ribeirão das Neves,2261.00
+10735883,Jeanie,46,Belo Horizonte,1919.00
+10735904,Lacy,56,Betim,2451.00
+10735925,Endia,35,Santa Luzia,1451.00
+10735946,Lelia,18,Betim,1548.00
+10735967,Orrie,40,Contagem,2025.00
+10735988,Abb,56,Contagem,2355.00
+10736009,Isham,49,Contagem,1874.00
+10736030,Margie,35,Santa Luzia,1492.00
+10736051,Arilla,34,Ribeirão das Neves,1996.00
+10736072,Maurice,29,Santa Luzia,2420.00
+10736093,Lacy,48,Contagem,2168.00
+10736114,Reah,28,Ribeirão das Neves,1902.00
+10736135,Perle,49,Santa Luzia,1696.00
+10736156,Hilary,36,Belo Horizonte,2122.00
+10736177,Ina,57,Contagem,1614.00
+10736198,Velva,51,Ribeirão das Neves,2460.00
+10736219,Gena,59,Belo Horizonte,1696.00
+10736240,Emil,35,Betim,2047.00
+10736261,Lovie,38,Contagem,2042.00
+10736282,Ellery,49,Ribeirão das Neves,2194.00
+10736303,Monroe,48,Santa Luzia,2489.00
+10736324,Lucia,39,Belo Horizonte,2035.00
+10736345,Olinda,26,Betim,1581.00
+10736366,Alma,45,Betim,2311.00
+10736387,Hortense,20,Contagem,1588.00
+10736408,Olga,50,Contagem,1433.00
+10736429,Herman,41,Ribeirão das Neves,2336.00
+10736450,Arther,36,Santa Luzia,1591.00
+10736471,Nolia,45,Santa Luzia,1406.00
+10736492,Glen,34,Belo Horizonte,1378.00
+10736513,Merle,43,Santa Luzia,2379.00
+10736534,Nick,30,Belo Horizonte,1371.00
+10736555,Nellie,18,Santa Luzia,1583.00
+10736576,Anna,30,Belo Horizonte,2044.00
+10736597,Alphonsus,34,Contagem,1741.00
+10736618,Eugene,54,Contagem,1580.00
+10736639,Lila,45,Betim,1602.00
+10736660,Camilla,39,Santa Luzia,2178.00
+10736681,Ocie,29,Betim,2386.00
+10736702,Avanelle,43,Santa Luzia,2357.00
+10736723,Doris,48,Contagem,2341.00
+10736744,Dick,44,Betim,2105.00
+10736765,Jodie,57,Ribeirão das Neves,1371.00
+10736786,Elwood,44,Ribeirão das Neves,2149.00
+10736807,Elmer,47,Betim,2307.00
+10736828,Doshie,54,Ribeirão das Neves,1675.00
+10736849,Odeal,54,Contagem,1932.00
+10736870,Netta,42,Santa Luzia,1842.00
+10736891,Molly,57,Santa Luzia,1857.00
+10736912,Thurman,39,Betim,1781.00
+10736933,Orval,51,Ribeirão das Neves,1721.00
+10736954,Evan,53,Belo Horizonte,2054.00
+10736975,Noella,29,Betim,2167.00
+10736996,Janet,48,Betim,2144.00
+10737017,Odie,32,Santa Luzia,1786.00
+10737038,Nolie,29,Betim,2297.00
+10737059,Eldridge,28,Belo Horizonte,2094.00
+10737080,George,27,Betim,2394.00
+10737101,Albirta,34,Belo Horizonte,2184.00
+10737122,Assunta,51,Ribeirão das Neves,1828.00
+10737143,Casimer,56,Ribeirão das Neves,1906.00
+10737164,Doll,29,Santa Luzia,2141.00
+10737185,Filomena,20,Belo Horizonte,1871.00
+10737206,Fayette,18,Contagem,2200.00
+10737227,Creola,47,Ribeirão das Neves,2058.00
+10737248,Fredericka,25,Betim,2001.00
+10737269,Lorette,29,Santa Luzia,2247.00
+10737290,Mason,25,Belo Horizonte,1366.00
+10737311,Beryl,57,Contagem,2476.00
+10737332,Molly,28,Contagem,1626.00
+10737353,Erie,52,Belo Horizonte,1487.00
+10737374,Celestia,42,Betim,1873.00
+10737395,Birtie,52,Betim,2401.00
+10737416,Dock,49,Contagem,1666.00
+10737437,Burton,21,Belo Horizonte,2374.00
+10737458,Harvie,51,Contagem,2043.00
+10737479,Ottis,59,Contagem,1513.00
+10737500,Emmitt,38,Santa Luzia,2163.00
+10737521,Trinidad,43,Contagem,2217.00
+10737542,Ann,47,Betim,1804.00
+10737563,Elva,46,Ribeirão das Neves,2124.00
+10737584,Angie,30,Santa Luzia,1363.00
+10737605,Wanda,26,Contagem,2122.00
+10737626,Elizebeth,28,Ribeirão das Neves,2160.00
+10737647,Aurore,36,Santa Luzia,2404.00
+10737668,Walter,55,Contagem,1970.00
+10737689,Harland,45,Belo Horizonte,2437.00
+10737710,Lulu,20,Contagem,1864.00
+10737731,Patsy,33,Ribeirão das Neves,2250.00
+10737752,Jennie,21,Betim,1300.00
+10737773,Trula,41,Santa Luzia,2446.00
+10737794,Madline,21,Belo Horizonte,2033.00
+10737815,Harry,26,Contagem,1331.00
+10737836,Baxter,20,Contagem,2027.00
+10737857,Valeria,48,Betim,1366.00
+10737878,Forest,55,Santa Luzia,1947.00
+10737899,Marybelle,53,Belo Horizonte,2024.00
+10737920,Lilliemae,44,Belo Horizonte,1749.00
+10737941,Wilfred,23,Contagem,2273.00
+10737962,Theola,23,Ribeirão das Neves,1783.00
+10737983,Augustin,21,Contagem,2056.00
+10738004,Launa,45,Santa Luzia,1590.00
+10738025,Monnie,47,Betim,1953.00
+10738046,Meyer,32,Betim,1453.00
+10738067,Norah,52,Contagem,2411.00
+10738088,David,28,Ribeirão das Neves,2490.00
+10738109,Lovina,37,Betim,2136.00
+10738130,Vernie,26,Santa Luzia,2488.00
+10738151,Beverly,28,Contagem,1413.00
+10738172,Glady,50,Belo Horizonte,2038.00
+10738193,Sid,51,Santa Luzia,2339.00
+10738214,Verena,47,Contagem,2301.00
+10738235,Clyde,25,Contagem,2119.00
+10738256,Myrtie,35,Betim,1443.00
+10738277,Erna,49,Betim,1867.00
+10738298,Clio,32,Betim,1769.00
+10738319,Clarence,28,Belo Horizonte,1561.00
+10738340,Cyrus,39,Belo Horizonte,2277.00
+10738361,Adrienne,55,Belo Horizonte,2148.00
+10738382,Marjory,56,Betim,2126.00
+10738403,Florene,55,Santa Luzia,2469.00
+10738424,Lyman,25,Betim,1975.00
+10738445,Claire,27,Ribeirão das Neves,1845.00
+10738466,Josefa,44,Contagem,1565.00
+10738487,Vander,29,Santa Luzia,2201.00
+10738508,Quincy,23,Contagem,1352.00
+10738529,Biagio,36,Betim,2086.00
+10738550,Omer,20,Belo Horizonte,1623.00
+10738571,Vincenza,27,Santa Luzia,2289.00
+10738592,Mallie,51,Santa Luzia,1578.00
+10738613,Leanora,46,Contagem,1327.00
+10738634,Mathilda,51,Contagem,1749.00
+10738655,Madelene,25,Belo Horizonte,1839.00
+10738676,Matilde,56,Ribeirão das Neves,2181.00
+10738697,Richmond,28,Belo Horizonte,2266.00
+10738718,Caroline,19,Santa Luzia,2499.00
+10738739,Major,52,Betim,1489.00
+10738760,Lennie,39,Ribeirão das Neves,1458.00
+10738781,Abigail,43,Santa Luzia,1379.00
+10738802,Donie,48,Contagem,1952.00
+10738823,Eve,22,Ribeirão das Neves,2393.00
+10738844,Bernard,56,Belo Horizonte,1809.00
+10738865,Ethel,52,Santa Luzia,2233.00
+10738886,Anner,19,Contagem,1835.00
+10738907,Alice,52,Ribeirão das Neves,2243.00
+10738928,Naoma,24,Betim,1677.00
+10738949,Shelby,18,Belo Horizonte,1433.00
+10738970,Bennie,20,Betim,2245.00
+10738991,Floris,38,Betim,1922.00
+10739012,Narcissus,47,Contagem,1320.00
+10739033,Venus,36,Betim,1655.00
+10739054,Fleetwood,29,Ribeirão das Neves,1691.00
+10739075,Luana,49,Betim,1891.00
+10739096,Texanna,37,Ribeirão das Neves,1977.00
+10739117,Dorris,36,Santa Luzia,1932.00
+10739138,Margrett,57,Ribeirão das Neves,1624.00
+10739159,Theodosia,18,Belo Horizonte,2050.00
+10739180,Charlie,28,Belo Horizonte,2361.00
+10739201,Orelia,56,Ribeirão das Neves,2462.00
+10739222,Carroll,46,Contagem,2131.00
+10739243,Agatha,52,Betim,2312.00
+10739264,Louis,22,Contagem,2320.00
+10739285,Dillie,30,Contagem,2141.00
+10739306,Avery,29,Belo Horizonte,1954.00
+10739327,Ozell,29,Belo Horizonte,1983.00
+10739348,Loyd,33,Belo Horizonte,1619.00
+10739369,Lera,36,Contagem,1363.00
+10739390,Claire,35,Santa Luzia,1370.00
+10739411,Amelia,54,Contagem,2118.00
+10739432,Linda,34,Contagem,2035.00
+10739453,Marion,51,Santa Luzia,2021.00
+10739474,Hildur,49,Ribeirão das Neves,2275.00
+10739495,Al,44,Ribeirão das Neves,2128.00
+10739516,Gerhard,24,Contagem,1843.00
+10739537,Christina,47,Belo Horizonte,1608.00
+10739558,Dove,56,Belo Horizonte,1596.00
+10739579,Genie,47,Ribeirão das Neves,2469.00
+10739600,Elizbeth,49,Santa Luzia,1390.00
+10739621,Jessamine,23,Santa Luzia,1442.00
+10739642,Carie,58,Contagem,1424.00
+10739663,Hope,54,Contagem,2477.00
+10739684,Aloysia,52,Ribeirão das Neves,2316.00
+10739705,Mata,21,Betim,1604.00
+10739726,Trudie,30,Belo Horizonte,2455.00
+10739747,Eudora,36,Betim,2117.00
+10739768,Helen,21,Belo Horizonte,1455.00
+10739789,Doshie,27,Betim,1541.00
+10739810,Candelaria,55,Betim,1427.00
+10739831,Tessa,18,Santa Luzia,2344.00
+10739852,Jerry,52,Santa Luzia,1329.00
+10739873,Ole,36,Betim,2020.00
+10739894,Anniemae,38,Ribeirão das Neves,1770.00
+10739915,Reno,45,Santa Luzia,1696.00
+10739936,Hermann,27,Belo Horizonte,1344.00
+10739957,Buford,51,Belo Horizonte,2440.00
+10739978,Louis,40,Belo Horizonte,2465.00
+10739999,Laurie,37,Santa Luzia,1739.00
+10740020,Ethelyn,29,Betim,2157.00
+10740041,Amada,28,Belo Horizonte,2224.00
+10740062,Ray,31,Betim,2367.00
+10740083,Arabella,37,Belo Horizonte,2487.00
+10740104,Lyle,27,Contagem,2306.00
+10740125,Verna,23,Santa Luzia,1908.00
+10740146,Pearlie,58,Belo Horizonte,2025.00
+10740167,Alyce,57,Belo Horizonte,2361.00
+10740188,Milton,58,Belo Horizonte,1783.00
+10740209,Cinda,44,Ribeirão das Neves,2153.00
+10740230,Laurence,19,Contagem,1776.00
+10740251,Violet,59,Contagem,1908.00
+10740272,Stella,47,Santa Luzia,1344.00
+10740293,Bella,53,Ribeirão das Neves,1727.00
+10740314,Johnie,45,Belo Horizonte,1970.00
+10740335,Ulysses,22,Santa Luzia,2169.00
+10740356,Anita,39,Belo Horizonte,2398.00
+10740377,Verna,40,Santa Luzia,1606.00
+10740398,Glenn,34,Contagem,1825.00
+10740419,Jason,22,Contagem,2134.00
+10740440,Ova,32,Betim,1391.00
+10740461,Lucian,35,Contagem,1722.00
+10740482,Persis,47,Contagem,1477.00
+10740503,Bonnie,54,Contagem,1981.00
+10740524,Elisabeth,39,Santa Luzia,1898.00
+10740545,Jaunita,54,Ribeirão das Neves,1930.00
+10740566,Hazle,22,Contagem,2033.00
+10740587,Rosita,46,Belo Horizonte,1977.00
+10740608,Lady,50,Santa Luzia,2321.00
+10740629,America,42,Santa Luzia,1880.00
+10740650,Todd,25,Belo Horizonte,1420.00
+10740671,Wilbert,52,Contagem,1312.00
+10740692,Inez,45,Contagem,1433.00
+10740713,Lara,21,Santa Luzia,2387.00
+10740734,Harry,31,Santa Luzia,1807.00
+10740755,Mandy,29,Belo Horizonte,1989.00
+10740776,Goldye,51,Santa Luzia,1356.00
+10740797,Lucetta,22,Belo Horizonte,1441.00
+10740818,Arthur,20,Santa Luzia,1730.00
+10740839,Dorothea,33,Betim,2211.00
+10740860,Conrad,29,Ribeirão das Neves,1599.00
+10740881,Lillis,26,Betim,1781.00
+10740902,Audrey,27,Ribeirão das Neves,1881.00
+10740923,Herschel,20,Ribeirão das Neves,1574.00
+10740944,Reece,33,Santa Luzia,1745.00
+10740965,Molly,18,Betim,1737.00
+10740986,Lurana,30,Betim,1909.00
+10741007,Bessie,36,Belo Horizonte,1905.00
+10741028,Hallie,30,Contagem,2482.00
+10741049,Gena,57,Belo Horizonte,1613.00
+10741070,Eulala,25,Betim,1576.00
+10741091,Stella,42,Santa Luzia,2033.00
+10741112,August,49,Santa Luzia,1961.00
+10741133,Jeremiah,50,Belo Horizonte,1665.00
+10741154,Iva,55,Contagem,2073.00
+10741175,Gunhild,35,Santa Luzia,1557.00
+10741196,Wellington,23,Ribeirão das Neves,1744.00
+10741217,Rebekah,24,Contagem,1957.00
+10741238,Timothy,27,Santa Luzia,1596.00
+10741259,Victoria,51,Contagem,1612.00
+10741280,Roberta,36,Ribeirão das Neves,2006.00
+10741301,Eddith,18,Belo Horizonte,2165.00
+10741322,Newell,33,Belo Horizonte,2030.00
+10741343,Godfrey,22,Contagem,1913.00
+10741364,Payton,48,Betim,1420.00
+10741385,Marshal,32,Contagem,1533.00
+10741406,Collis,24,Santa Luzia,2333.00
+10741427,Senora,56,Contagem,2153.00
+10741448,Gaylord,59,Belo Horizonte,1351.00
+10741469,Gates,32,Santa Luzia,1944.00
+10741490,Georgie,41,Ribeirão das Neves,1963.00
+10741511,Colbert,46,Belo Horizonte,1646.00
+10741532,Betsy,26,Betim,2202.00
+10741553,Pernie,37,Contagem,1464.00
+10741574,Isabella,51,Contagem,1975.00
+10741595,Mack,29,Santa Luzia,2235.00
+10741616,Reese,26,Betim,1567.00
+10741637,Margaretha,21,Betim,1507.00
+10741658,Wallace,41,Contagem,1571.00
+10741679,Esther,34,Betim,2089.00
+10741700,Chester,21,Ribeirão das Neves,1709.00
+10741721,Dawn,58,Ribeirão das Neves,1973.00
+10741742,Roberta,35,Santa Luzia,1324.00
+10741763,Roscoe,24,Contagem,1827.00
+10741784,Noble,45,Santa Luzia,1499.00
+10741805,Corena,46,Betim,1818.00
+10741826,Emmit,46,Ribeirão das Neves,1626.00
+10741847,Mannie,39,Betim,2282.00
+10741868,Christie,43,Contagem,1941.00
+10741889,Florence,49,Contagem,1668.00
+10741910,Stella,38,Belo Horizonte,2239.00
+10741931,Elisabeth,53,Belo Horizonte,1658.00
+10741952,Daphne,31,Santa Luzia,2293.00
+10741973,Alvira,52,Contagem,1376.00
+10741994,Wava,49,Ribeirão das Neves,1341.00
+10742015,Herschel,31,Santa Luzia,1687.00
+10742036,Geo,51,Ribeirão das Neves,2271.00
+10742057,Armond,53,Contagem,1874.00
+10742078,Pascual,29,Ribeirão das Neves,2331.00
+10742099,Carson,50,Ribeirão das Neves,1529.00
+10742120,Hollie,38,Contagem,1952.00
+10742141,Alto,55,Santa Luzia,1692.00
+10742162,Perry,39,Ribeirão das Neves,2164.00
+10742183,Elsie,31,Betim,1689.00
+10742204,Oneita,32,Contagem,2442.00
+10742225,Sara,51,Belo Horizonte,1510.00
+10742246,Olevia,35,Ribeirão das Neves,2230.00
+10742267,Philip,18,Santa Luzia,2228.00
+10742288,Rubie,22,Betim,1626.00
+10742309,Anthony,29,Betim,2369.00
+10742330,Mima,39,Contagem,2438.00
+10742351,Lavina,56,Betim,1967.00
+10742372,Marie,31,Belo Horizonte,1634.00
+10742393,Alline,37,Santa Luzia,1901.00
+10742414,Houston,21,Santa Luzia,2112.00
+10742435,Beatrice,48,Betim,1835.00
+10742456,Jody,34,Belo Horizonte,2069.00
+10742477,Montie,32,Betim,2154.00
+10742498,Norah,44,Contagem,2029.00
+10742519,Veronica,24,Betim,1566.00
+10742540,Sena,45,Ribeirão das Neves,1477.00
+10742561,Maudie,57,Santa Luzia,2200.00
+10742582,Thea,52,Contagem,2494.00
+10742603,Royce,21,Betim,2050.00
+10742624,Gilford,34,Belo Horizonte,1453.00
+10742645,America,28,Ribeirão das Neves,1959.00
+10742666,Martina,33,Contagem,2367.00
+10742687,Evalyn,32,Belo Horizonte,1979.00
+10742708,Drucilla,27,Betim,1433.00
+10742729,Kirby,23,Ribeirão das Neves,1493.00
+10742750,Charles,48,Ribeirão das Neves,2219.00
+10742771,Benjamin,34,Belo Horizonte,1684.00
+10742792,Joye,45,Ribeirão das Neves,1333.00
+10742813,Cruz,44,Ribeirão das Neves,1526.00
+10742834,Wilburn,57,Ribeirão das Neves,1750.00
+10742855,Cecil,25,Belo Horizonte,1631.00
+10742876,Attie,51,Betim,1923.00
+10742897,Gust,19,Ribeirão das Neves,1704.00
+10742918,Fredric,38,Santa Luzia,1988.00
+10742939,Vinson,52,Ribeirão das Neves,2145.00
+10742960,Cleola,52,Betim,1443.00
+10742981,Madgie,52,Ribeirão das Neves,1987.00
+10743002,Hollie,23,Ribeirão das Neves,2127.00
+10743023,Loyd,24,Contagem,2364.00
+10743044,Aleen,26,Ribeirão das Neves,2349.00
+10743065,Sudie,37,Santa Luzia,1312.00
+10743086,Patrick,49,Betim,2440.00
+10743107,Albin,21,Santa Luzia,1868.00
+10743128,Theo,25,Ribeirão das Neves,1593.00
+10743149,Catarino,33,Contagem,2466.00
+10743170,Mallie,37,Betim,2180.00
+10743191,Mattie,40,Contagem,1816.00
+10743212,Fritz,31,Belo Horizonte,1844.00
+10743233,Eliga,56,Contagem,2485.00
+10743254,Lillie,31,Ribeirão das Neves,2251.00
+10743275,Merlin,42,Betim,2236.00
+10743296,Jame,34,Santa Luzia,2290.00
+10743317,Forest,23,Ribeirão das Neves,1635.00
+10743338,Besse,51,Betim,1458.00
+10743359,Odell,26,Santa Luzia,2422.00
+10743380,Erie,57,Belo Horizonte,1398.00
+10743401,Claudine,52,Belo Horizonte,1740.00
+10743422,Francisco,22,Betim,1997.00
+10743443,Jethro,44,Betim,2171.00
+10743464,Maye,20,Ribeirão das Neves,2062.00
+10743485,Elnora,29,Santa Luzia,1713.00
+10743506,Harry,45,Ribeirão das Neves,1780.00
+10743527,Rosella,33,Santa Luzia,1504.00
+10743548,Myrtle,27,Betim,1494.00
+10743569,Clementine,25,Contagem,2153.00
+10743590,Cecille,59,Belo Horizonte,1824.00
+10743611,Loyola,21,Santa Luzia,2485.00
+10743632,Benedict,32,Belo Horizonte,2229.00
+10743653,Haywood,58,Contagem,2186.00
+10743674,Melissa,42,Betim,2469.00
+10743695,Sabina,26,Belo Horizonte,1796.00
+10743716,Theresa,20,Belo Horizonte,1738.00
+10743737,Lina,45,Belo Horizonte,1634.00
+10743758,Henry,55,Betim,2328.00
+10743779,Clarice,46,Contagem,1981.00
+10743800,Zoe,52,Ribeirão das Neves,1932.00
+10743821,Cordelia,54,Betim,1366.00
+10743842,Lige,21,Santa Luzia,1543.00
+10743863,Freida,30,Ribeirão das Neves,2098.00
+10743884,Cornelious,45,Contagem,2358.00
+10743905,Georgia,34,Betim,1348.00
+10743926,Milo,29,Contagem,1643.00
+10743947,Mariano,45,Ribeirão das Neves,1565.00
+10743968,Charlie,25,Ribeirão das Neves,2163.00
+10743989,Delcie,44,Ribeirão das Neves,1906.00
+10744010,Hosey,19,Contagem,1929.00
+10744031,Orpha,24,Santa Luzia,1469.00
+10744052,Docia,39,Betim,1352.00
+10744073,Luciana,54,Contagem,1579.00
+10744094,Cornelius,56,Betim,1694.00
+10744115,Nettie,34,Belo Horizonte,1394.00
+10744136,Early,29,Belo Horizonte,1321.00
+10744157,Marinus,34,Belo Horizonte,2019.00
+10744178,Roger,48,Belo Horizonte,1910.00
+10744199,Mack,18,Betim,1569.00
+10744220,Jessica,26,Belo Horizonte,2082.00
+10744241,Mabel,43,Belo Horizonte,1816.00
+10744262,Guadalupe,49,Belo Horizonte,1549.00
+10744283,Lois,50,Ribeirão das Neves,1560.00
+10744304,Lou,55,Ribeirão das Neves,1382.00
+20457063,Claire,35,Betim,4000.00
+20457840,Buna,32,Contagem,3500.00
+20483481,Sussie,43,Santa Luzia,2600.00
+20484258,Charlie,40,Contagem,2300.00
+20495136,Montie,66,Belo Horizonte,1500.00
+20495913,Mozell,28,Contagem,1800.00
+20498244,Mitchell,55,Belo Horizonte,3900.00
+20501352,Dixie,65,Santa Luzia,3400.00
+20502906,Vinie,69,Betim,2900.00
+20503683,Bethel,47,Santa Luzia,5200.00
+20505237,Lana,24,Ribeirão das Neves,5200.00
+20507568,Tony,23,Betim,4500.00
+20509122,Frances,62,Ribeirão das Neves,3400.00
+20509899,Truman,49,Belo Horizonte,3400.00
+20510676,Arletta,37,Contagem,2600.00
+20515338,Bobbie,39,Betim,4500.00
+20516892,Veronica,38,Ribeirão das Neves,1400.00
+20517669,Lorayne,49,Belo Horizonte,2900.00
+20518446,Fleda,46,Betim,2100.00
+20519223,Lorin,55,Betim,2220.00
+20520000,Arlington,25,Santa Luzia,1400.00
