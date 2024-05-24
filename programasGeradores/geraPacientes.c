@@ -9,7 +9,7 @@
 typedef struct {
     int rg;
     char nome[50];
-    int idade;
+    char idade[11];
     char cidade[50];
     char doenca[50];
 } Paciente;
@@ -46,6 +46,23 @@ char *obterNomeAleatorio() {
     return nomes[rand() % NUM_NOMES];
 }
 
+void gerarDataAleatoria(char *data) {
+    int ano = rand() % (2024 - 1944 + 1) + 1944; // Ano entre 2000 e 2019
+    int mes = rand() % 12 + 1; // Mês entre 1 e 12
+    int dia;
+    if (mes == 2) {
+        // Se for fevereiro, ajustar para até 28 dias
+        dia = rand() % 28 + 1;
+    } else if (mes == 4 || mes == 6 || mes == 9 || mes == 11) {
+        // Se for abril, junho, setembro ou novembro, ajustar para até 30 dias
+        dia = rand() % 30 + 1;
+    } else {
+        // Para os outros meses, até 31 dias
+        dia = rand() % 31 + 1;
+    }
+    sprintf(data, "%d-%02d-%02d", ano, mes, dia);
+}  
+
 int main() {
     // Abrir o arquivo para escrever
     FILE *arquivo;
@@ -70,12 +87,12 @@ int main() {
         Paciente paciente;
         paciente.rg = rg + (i * 777); // RG sequencial começando em 56789234 e aumentando de 777 em 777
         strcpy(paciente.nome, obterNomeAleatorio());
-        paciente.idade = rand() % 99 + 1; // Idade entre 1 e 99
+        gerarDataAleatoria(paciente.idade); // Idade entre 1 e 99
         strcpy(paciente.cidade, cidades[rand() % 5]); // Escolha aleatória de uma cidade
         strcpy(paciente.doenca, doencas[rand() % 10]); // Escolha aleatória de uma doença
 
         // Escrever os dados do paciente no arquivo CSV
-        fprintf(arquivo, "%d,%s,%d,%s,%s\n", paciente.rg, paciente.nome, paciente.idade, paciente.cidade, paciente.doenca);
+        fprintf(arquivo, "%d,%s,%s,%s,%s\n", paciente.rg, paciente.nome, paciente.idade, paciente.cidade, paciente.doenca);
     }
 
     // Fechar o arquivo

@@ -61,22 +61,57 @@ Select Medico.nome as nome from Medico;
 
 -- 13) buscar os nomes e idade dos médicos, pacientes e funcionários que residem em Ribeirão das Neves
 
-Select Paciente.nome as nome, Paciente.idade as idade from Paciente where Paciente.cidade = "Ribeirão das Neves"
-Union
-Select Funcionario.nome as nome, Funcionario.idade as idade from Funcionario where Funcionario.cidade = "Ribeirão das Neves"
-Union 
-Select Medico.nome as nome, Medico.idade as idade from Medico where Medico.cidade = "Ribeirão das Neves";
+-- Select Paciente.nome as nome, Paciente.idade as idade from Paciente where Paciente.cidade = "Ribeirão das Neves"
+-- Union
+-- Select Funcionario.nome as nome, Funcionario.idade as idade from Funcionario where Funcionario.cidade = "Ribeirão das Neves"
+-- Union 
+-- Select Medico.nome as nome, Medico.idade as idade from Medico where Medico.cidade = "Ribeirão das Neves";
+SELECT Paciente.nome AS nome, TIMESTAMPDIFF(YEAR, Paciente.idade, CURDATE()) AS idade
+FROM Paciente
+WHERE Paciente.cidade = 'Ribeirão das Neves'
+UNION
+SELECT Funcionario.nome AS nome, TIMESTAMPDIFF(YEAR, Funcionario.idade, CURDATE()) AS idade
+FROM Funcionario
+WHERE Funcionario.cidade = 'Ribeirão das Neves'
+UNION
+SELECT Medico.nome AS nome, TIMESTAMPDIFF(YEAR, Medico.idade, CURDATE()) AS idade
+FROM Medico
+WHERE Medico.cidade = 'Ribeirão das Neves';
+
 
 -- 14) buscar os nomes e RGs dos funcionários que recebem salários abaixo de R$ 3000,00 e que não estão internados como pacientes
+SELECT Funcionario.nome, Funcionario.RG
+FROM Funcionario
+LEFT JOIN Paciente ON Funcionario.RG = Paciente.RG
+WHERE Funcionario.salario < 3000 AND Paciente.RG IS NULL;
 
 -- 15) buscar os números dos ambulatórios onde nenhum médico dá atendimento
+SELECT Ambulatorio.numeroA
+FROM Ambulatorio
+LEFT JOIN Medico ON Ambulatorio.numeroA = Medico.numeroA
+WHERE Medico.CRM IS NULL;
 
 -- 16) buscar os nomes e RGs dos funcionários que estão internados como pacientes
+SELECT Funcionario.nome, Funcionario.RG
+FROM Funcionario
+INNER JOIN Paciente ON Funcionario.RG = Paciente.RG;
 
 -- 17) excluir todos os funcionarios que residem em Contagem
+DELETE FROM Funcionario
+WHERE cidade = 'Contagem';
 
--- 18) alterar o ambulatório de todos os médicos neurologistas para o andar 2.
+-- 18) alterar o ambulatório de todos os médicos neurologistas para o andar 2
+UPDATE Medico
+SET numeroA = (SELECT numeroA FROM Ambulatorio WHERE andar = 2 LIMIT 1)
+WHERE especialidade = 'Neurologista';
 
 -- 19) desmarcar todas as consultas do mês de outubro do médico Vitor Miranda
+DELETE FROM Consulta
+WHERE CRM = (SELECT CRM FROM Medico WHERE nome = 'Vitor Miranda')
+AND MONTH(data) = 10;
 
 -- 20) transferir as consultas do médico José Carlos do dia 15 julho para o dia 20 de setembro
+UPDATE Consulta
+SET data = '2024-09-20'
+WHERE CRM = (SELECT CRM FROM Medico WHERE nome = 'José Carlos')
+AND data = '2024-07-15';
